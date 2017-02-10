@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>{% block title %}Welcome!{% endblock %}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/app/assets/font/font-awesome.min.css') }}" />
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/app/assets/font/font.css') }}" />
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/app/assets/css/bootstrap.min.css') }}" media="screen" />
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/app/assets/css/style.css') }}" media="screen" />
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/app/assets/css/responsive.css') }}" media="screen" />
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/app/assets/css/jquery.bxslider.css') }}" media="screen" />
+{% block stylesheets %}{% endblock %}
+</head>
+<body>
+<div class="body_back">
+<div class="body_wrapper">
+<div class="alignright">
+{% block corner %}{% endblock %}
+</div>
+  <div class="center">
+    <div class="header_area">
+      {% block header %}{% endblock %}
+      <img src="{{ asset('bundles/app/images/banner_web.jpg') }}" alt="" title="Slider caption text" />
+    </div>
+    <div class="main_menu_area">
+      <ul id="nav">
+        <li><a href="{{ path('homepage')}}">{% trans %}Inicio{% endtrans %}</a></li>
+        <li><a href="{{ path('call')}}">{% trans %}Convocatoria{% endtrans %}</a></li>
+        <li><a href="{{ path('authors')}}">{% trans %}Instrucciones para Autores{% endtrans %}</a></li>
+        <li><a href="{{ path('registration')}}">{% trans %}Registro{% endtrans %}</a></li>
+        <li><a href="{{ path('venue')}}">{% trans %}Sede{% endtrans %}</a></li>
+        <li><a href="{{ path('program')}}">{% trans %}Programa{% endtrans %}</a></li>
+        <li><a href="{{ path('committee')}}">{% trans %}Comite{% endtrans %}</a></li>
+      </ul>
+    </div>
+    {% block slider %}{% endblock %}
+    <div class="content_area">
+        <div class="main_content floatleft">
+        {% block body %}{% endblock %}
+        </div>
+        <div class="right_coloum floatright">
+          
+        </div>
+    </div>
+      <div class="sidebar floatright">
+        <div class="single_sidebar">
+          <div class="popular">
+            <h2 class="title">{% trans %}Fechas Importantes{% endtrans %}</h2>
+            <ul>
+              <li>
+                <div class="single_popular">
+                  <p>Sept 24th 2045</p>
+                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
+                </div>
+              </li>
+              <li>
+                <div class="single_popular">
+                  <p>Sept 24th 2045</p>
+                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
+                </div>
+              </li>
+              <li>
+                <div class="single_popular">
+                  <p>Sept 24th 2045</p>
+                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
+                </div>
+              </li>
+              <li>
+                <div class="single_popular">
+                  <p>Sept 24th 2045</p>
+                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
+                </div>
+              </li>
+              <li>
+                <div class="single_popular">
+                  <p>Sept 24th 2045</p>
+                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
+                </div>
+              </li>
+            </ul>
+            
+        </div>
+      </div>
+    </div>
+    <div class="footer_top_area">
+    {% block footer %} {% endblock %}
+    </div>
+    <div class="footer_bottom_area">
+    <img src="{{ asset('bundles/app/images/banner_web.jpg') }}" alt="" title="Slider caption text" />
+
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="{{ asset('bundles/app/assets/js/jquery-min.js') }}"></script> 
+<script type="text/javascript" src="{{ asset('bundles/app/assets/js/bootstrap.min.js') }}"></script> 
+<script type="text/javascript" src="{{ asset('bundles/app/assets/js/jquery.bxslider.js') }}"></script> 
+<script type="text/javascript" src="{{ asset('bundles/app/assets/js/selectnav.min.js') }}"></script> 
+<script type="text/javascript">
+selectnav('nav', {
+    label: '-Navigation-',
+    nested: true,
+    indent: '-'
+});
+selectnav('f_menu', {
+    label: '-Navigation-',
+    nested: true,
+    indent: '-'
+});
+$('.bxslider').bxSlider({
+    mode: 'fade',
+    captions: true
+});
+{% block javascripts %}{% endblock %}
+</script>
+</div>
+</body>
+</html>

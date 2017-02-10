@@ -1,0 +1,31 @@
+{% extends 'base.html.twig' %}
+
+{% block slider %}
+    <div class="slider_area">
+      <div class="slider">
+        <ul class="bxslider">
+          <li><img src="{{ asset('bundles/app/images/1.jpg') }}" alt="" title="Slider caption text" /></li>
+          <li><img src="{{ asset('bundles/app/images/2.jpg') }}" alt="" title="Slider caption text" /></li>
+          <li><img src="{{ asset('bundles/app/images/3.jpg') }}" alt="" title="Slider caption text" /></li>
+        </ul>
+      </div>
+    </div>
+{% endblock %}
+{% block body %} {% endblock %}
+{% block stylesheets %} {% endblock %}
+{% block footer %}
+    {% set locale = app.request.locale %}
+    {% if locale == 'es' %}
+    <a href="{{ path('homepage', { '_locale': 'en' }) }}"><img src="{{ asset('bundles/app/images/us.png') }}" height="32" width="32" >  </a>
+    {% elseif locale == 'en' %}
+    <a href="{{ path('homepage', { '_locale': 'es' }) }}"><img src="{{ asset('bundles/app/images/es.png') }}" height="32" width="32" >  </a>
+    {% endif %}
+{% endblock %}
+{% block corner %}
+    {% set locale = app.request.locale %}
+    {% if locale == 'es' %}
+    <a href="{{ path('homepage', { '_locale': 'en' }) }}"><img src="{{ asset('bundles/app/images/us.png') }}" height="32" width="32" >  </a>
+    {% elseif locale == 'en' %}
+    <a href="{{ path('homepage', { '_locale': 'es' }) }}"><img src="{{ asset('bundles/app/images/es.png') }}" height="32" width="32" >  </a>
+    {% endif %}
+{% endblock %}

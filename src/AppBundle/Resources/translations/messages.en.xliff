@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="es" datatype="plaintext" original="file.ext">
+		<body>
+			<trans-unit id="1">
+				<source>Inicio</source>
+				<target>Home</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>Convocatoria</source>
+				<target>Call for Papers</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>Registro</source>
+				<target>Registration</target>
+			</trans-unit>
+			<trans-unit id="4">
+				<source>Sede</source>
+				<target>Venue</target>
+			</trans-unit>
+			<trans-unit id="5">
+				<source>Programa</source>
+				<target>Program</target>
+			</trans-unit>
+			<trans-unit id="6">
+				<source>Comite</source>
+				<target>Committee</target>
+			</trans-unit>
+			<trans-unit id="7">
+				<source>Instrucciones para Autores</source>
+				<target>Instructions for Authors</target>
+			</trans-unit>
+			<trans-unit id="8">
+				<source>Fechas Importantes</source>
+				<target>Important Dates</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %} {% endblock %}
+{% block stylesheets %} {% endblock %}
+{% block footer %}
+    {% set locale = app.request.locale %}
+    {% if locale == 'es' %}
+    <a href="{{ path('registration', { '_locale': 'en' }) }}"><img src="{{ asset('bundles/app/images/us.png') }}" height="32" width="32" >  </a>
+    {% elseif locale == 'en' %}
+    <a href="{{ path('registration', { '_locale': 'es' }) }}"><img src="{{ asset('bundles/app/images/es.png') }}" height="32" width="32" >  </a>
+    {% endif %}
+{% endblock %}
+{% block corner %}
+    {% set locale = app.request.locale %}
+    {% if locale == 'es' %}
+    <a href="{{ path('registration', { '_locale': 'en' }) }}"><img src="{{ asset('bundles/app/images/us.png') }}" height="32" width="32" >  </a>
+    {% elseif locale == 'en' %}
+    <a href="{{ path('registration', { '_locale': 'es' }) }}"><img src="{{ asset('bundles/app/images/es.png') }}" height="32" width="32" >  </a>
+    {% endif %}
+{% endblock %}
