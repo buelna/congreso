@@ -67,8 +67,8 @@
 				<target>All papers accepted to be presented in the technical sessions will be published in the Research in Computing Science journal, ISSN 1870-4069, published by the National Polytechnic Institute of Mexico.</target>
 			</trans-unit>
 			<trans-unit id="17">
-				<source>El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas pueden descargarse aquí para Latex y Word.</source>
-				<target>All papers must use the LNCS Springer series format. The templates can be found here, for Latex and Windows.</target>
+				<source>El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas para Latex y Word pueden descargarse</source>
+				<target>All papers must use the LNCS Springer series format. The templates for Latex and Word can be found</target>
 			</trans-unit>
 			<trans-unit id="18">
 				<source>Comité Organizador</source>
@@ -253,6 +253,10 @@
 			<trans-unit id="63">
 				<source>, seleccionando la conferencia ICCNA 2017. Los artículos deben ser escritos en inglés o español.</source>
 				<target> Web page, selecting ICCNA 2017. All final submissions should be written in English or Spanish.</target>
+			</trans-unit>
+			<trans-unit id="64">
+				<source>aquí</source>
+				<target>here</target>
 			</trans-unit>
 		</body>
 	</file>
