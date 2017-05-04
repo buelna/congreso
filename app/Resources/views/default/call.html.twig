@@ -1,6 +1,30 @@
 {% extends 'base.html.twig' %}
 
-{% block body %} {% endblock %}
+{% block body %}
+{% trans %}
+Se invita al envío de ponencias originales y que no hayan sido publicadas previamente, que sean el resultado del trabajo en investigación en aplicaciones relacionadas con los tópicos de interés descritos a continuación, sin estar imitados a ellos:
+{% endtrans %}<br><br> 
+<ul>
+<li>- {% trans %}Redes inalámbricas de sensores{% endtrans %}</li>
+<li>- {% trans %}eSalud y vida cotidiana asistida por el entorno{% endtrans %}</li>
+<li>- {% trans %}Internet de las personas e Internet de las cosas{% endtrans %}</li>
+<li>- {% trans %}Ciudades inteligentes y redes computacionales urbanas{% endtrans %}</li>
+<li>- {% trans %}Sistemas de cómputo ubicuo y de inteligencia ambiental{% endtrans %}</li>
+<li>- {% trans %}Computación en la nube{% endtrans %}</li>
+<li>- {% trans %}Computación móvil en la nube y de vanguardia{% endtrans %}</li>
+<li>- {% trans %}Sistemas ciber-físicos{% endtrans %}</li>
+<li>- {% trans %}Comunicación en grids inteligentes{% endtrans %}</li>
+<li>- {% trans %}Redes vehiculares{% endtrans %}</li>
+<li>- {% trans %}Sistemas de procesamiento de señales{% endtrans %}</li>
+<li>- {% trans %}Redes de próxima generación{% endtrans %}</li> 
+<li>- {% trans %}Computación par a par{% endtrans %}</li>
+<li>- {% trans %}Redes sociales y Web 2.0{% endtrans %}</li>
+<li>- {% trans %}Virtualización de redes{% endtrans %}</li>
+<li>- {% trans %}Redes definidas por software{% endtrans %}</li>
+<li>- {% trans %}Administración de grandes volúmenes de datos{% endtrans %}</li>
+<li>- {% trans %}Servicios multimedia interactivos {% endtrans %}</li>
+</ul>
+{% endblock %}
 {% block stylesheets %} {% endblock %}
 {% block footer %}
     {% set locale = app.request.locale %}

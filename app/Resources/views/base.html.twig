@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>{% block title %}Welcome!{% endblock %}</title>
+<link rel="icon" type="image/x-icon" href="{{ asset('bundles/app/images/logo.png') }}" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" type="text/css" href="{{ asset('bundles/app/assets/font/font-awesome.min.css') }}" />
@@ -21,17 +22,17 @@
   <div class="center">
     <div class="header_area">
       {% block header %}{% endblock %}
-      <img src="{{ asset('bundles/app/images/banner_web.jpg') }}" alt="" title="Slider caption text" />
+      <img src="{{ asset('bundles/app/images/banner_web.jpg') }}" alt=""/>
     </div>
     <div class="main_menu_area">
       <ul id="nav">
         <li><a href="{{ path('homepage')}}">{% trans %}Inicio{% endtrans %}</a></li>
-        <li><a href="{{ path('call')}}">{% trans %}Convocatoria{% endtrans %}</a></li>
+        <li><a href="{{ path('call')}}">{% trans %}LLamada a Articulos{% endtrans %}</a></li>
         <li><a href="{{ path('authors')}}">{% trans %}Instrucciones para Autores{% endtrans %}</a></li>
         <li><a href="{{ path('registration')}}">{% trans %}Registro{% endtrans %}</a></li>
-        <li><a href="{{ path('venue')}}">{% trans %}Sede{% endtrans %}</a></li>
-        <li><a href="{{ path('program')}}">{% trans %}Programa{% endtrans %}</a></li>
         <li><a href="{{ path('committee')}}">{% trans %}Comite{% endtrans %}</a></li>
+        <li><a href="{{ path('program')}}">{% trans %}Programa{% endtrans %}</a></li>
+        <li><a href="{{ path('venue')}}">{% trans %}Sede{% endtrans %}</a></li>
       </ul>
     </div>
     {% block slider %}{% endblock %}
@@ -39,49 +40,46 @@
         <div class="main_content floatleft">
         {% block body %}{% endblock %}
         </div>
-        <div class="right_coloum floatright">
-          
+        
+        <div class="sidebar floatright">
+          <div class="single_sidebar">
+            <div class="popular">
+              <h2 class="title">{% trans %}Fechas Importantes{% endtrans %}</h2>
+              <ul>
+                <li>
+                  <div class="single_popular">
+                    <p>{% trans %}Mayo{% endtrans %} 15, 2017</p>
+                    <h3>{% trans %}Inicio de envío de ponencias{% endtrans %}</h3>
+                  </div>
+                </li>
+                <li>
+                  <div class="single_popular">
+                    <p>{% trans %}Agosto{% endtrans %} 18, 2017</p>
+                    <h3>{% trans %}Fecha límite de recepción de ponencias{% endtrans %}</h3>
+                  </div>
+                </li>
+                <li>
+                  <div class="single_popular">
+                    <p>{% trans %}Septiembre{% endtrans %} 29, 2017</p>
+                    <h3>{% trans %}Notificación de aceptación{% endtrans %}</h3>
+                  </div>
+                </li>
+                <li>
+                  <div class="single_popular">
+                    <p>{% trans %}Octubre{% endtrans %} 13, 2017</p>
+                    <h3>{% trans %}Versión final del artículo{% endtrans %}</h3>
+                  </div>
+                </li>
+                <li>
+                  <div class="single_popular">
+                    <p>{% trans %}Noviembre{% endtrans %} 8 y 9, 2017</p>
+                    <h3>{% trans %}Fecha de la conferencia{% endtrans %}</h3>
+                  </div>
+                </li>
+              </ul> 
+            </div>
+          </div>
         </div>
-    </div>
-      <div class="sidebar floatright">
-        <div class="single_sidebar">
-          <div class="popular">
-            <h2 class="title">{% trans %}Fechas Importantes{% endtrans %}</h2>
-            <ul>
-              <li>
-                <div class="single_popular">
-                  <p>Sept 24th 2045</p>
-                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
-                </div>
-              </li>
-              <li>
-                <div class="single_popular">
-                  <p>Sept 24th 2045</p>
-                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
-                </div>
-              </li>
-              <li>
-                <div class="single_popular">
-                  <p>Sept 24th 2045</p>
-                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
-                </div>
-              </li>
-              <li>
-                <div class="single_popular">
-                  <p>Sept 24th 2045</p>
-                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
-                </div>
-              </li>
-              <li>
-                <div class="single_popular">
-                  <p>Sept 24th 2045</p>
-                  <h3>Lorem ipsum dolor sit amet conse ctetur adipiscing elit <a href="#" class="readmore">Read More</a></h3>
-                </div>
-              </li>
-            </ul>
-            
-        </div>
-      </div>
     </div>
     <div class="footer_top_area">
     {% block footer %} {% endblock %}
@@ -110,7 +108,7 @@ selectnav('f_menu', {
 });
 $('.bxslider').bxSlider({
     mode: 'fade',
-    captions: true
+    captions: false
 });
 {% block javascripts %}{% endblock %}
 </script>

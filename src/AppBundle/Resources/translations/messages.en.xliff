@@ -7,7 +7,7 @@
 				<target>Home</target>
 			</trans-unit>
 			<trans-unit id="2">
-				<source>Convocatoria</source>
+				<source>LLamada a Articulos</source>
 				<target>Call for Papers</target>
 			</trans-unit>
 			<trans-unit id="3">
@@ -33,6 +33,226 @@
 			<trans-unit id="8">
 				<source>Fechas Importantes</source>
 				<target>Important Dates</target>
+			</trans-unit>
+			<trans-unit id="9">
+				<source>Las redes de computadoras, ya sea cableadas o inalámbricas, tienen cada día un lugar más relevante en el mundo actual. Las redes sociales, los servicios de transmisión de audio o video o el comercio electrónico son algunos ejemplos de aplicaciones que forman parte de la vida cotidiana. Sin embargo, se prevé que las redes de computadoras tengan una mucha mayor presencia en el futuro, a través de aplicaciones de la Internet de las Cosas o los Sistemas Ciber-Físicos, por mencionar algunos.</source>
+				<target>Computer networks, either wired or wireless, are becoming much more relevant nowadays. Social networks, video and audio streaming services, and electronic commerce, are examples of applications that are part of everyday life. However, it is expected that computer networks will be even more relevant in the near future, through applications of the Internet of Things or Cyber-Physical Systems, to mention a few.</target>
+			</trans-unit>
+			<trans-unit id="10">
+				<source>La Conferencia Internacional en Aplicaciones de las Redes de Computadoras (ICCNA) busca ser un foro para que investigadores de diversas partes del país y del mundo puedan compartir sus resultados y experiencias relacionadas con las aplicaciones de las redes de computadoras.</source>
+				<target>The International Conference on Computer Networks Applications (ICCNA) aims to bring together researches from Mexico and all over the world, to share their results and experiences related to the development of applications that are based on the use of a computer network.</target>
+			</trans-unit>
+			<trans-unit id="11">
+				<source>La ICCNA 2017 presentará los más recientes desarrollos y soluciones técnicas a problemas relacionados con las aplicaciones de las redes computacionales, así como aplicaciones y servicios novedosos. La conferencia incluye ponencias arbitradas para presentarse en sesiones técnicas, presentación de carteles, coloquio doctoral y de maestría, así como sesión de demostraciones. Por tal motivo, se hace una atenta invitación para que investigadores de área de las redes de computadoras, redes inalámbricas de sensores, la Internet de las cosas, ciudades inteligentes, sistemas ciber-físicos, telemedicina, eSalud, vida cotidiana asistida por el entorno, manejo de grandes volúmenes de datos, computación ubicua y procesamiento de señales, entre otras, envíen sus contribuciones a la conferencia.</source>
+				<target>ICCNA 2017 will present the latest developments and novel technical solutions to problems related to the development of computer networks applications. The conference will include peer-reviewed technical sessions, poster presentations, doctoral and master colloquium, and a demo session.  We encourage the participation of researchers from the of computer networks, wireless sensor networks, Internet of Things, Smart Cities, Cyber-physical systems, e-Health, Ambient Assisted Living, Big Data, ubiquitous computing, and signal processing communities, among others, to submit contributions to the conference.</target>
+			</trans-unit>
+			<trans-unit id="12">
+				<source>Los artículos aceptados para ser presentados en las sesiones técnicas serán publicados en la Revista Research in Computer Science, ISSN 1870-4069, publicada por el Instituto Politécnico Nacional.</source>
+				<target>All papers accepted to be presented in the technical sessions will be published in the Research in Computing Science journal, ISSN 1870-4069, published by the National Polytechnic Institute of Mexico.</target>
+			</trans-unit>
+			<trans-unit id="13">
+				<source>Los artículos enviados deben contener material original que no esté sujeto a revisión en alguna otra conferencia o revista, o que no haya sido publicado previamente. La extensión máxima de cada artículo no debe ser mayor a doce páginas.</source>
+				<target>Submitted papers must represent original material that is not currently under review in any other conference or journal, and has not been previously published. Paper length should not exceed twelve pages.</target>
+			</trans-unit>
+			<trans-unit id="14">
+				<source>Los artículos deben ser enviados en formato .pdf a través del portal</source>
+				<target>Papers should be submitted in .pdf format through the</target>
+			</trans-unit>
+			<trans-unit id="15">
+				<source>Para que el artículo sea publicado en la revista Research in Computer Science, ISSN 1870-4069, un autor del mismo debe registrarse y presentarlo en la conferencia. Para autores de diversos artículos aceptados, el pago de un registro es válido para dos artículos, que deberán ser presentados en la conferencia. Solo artículos registrados y presentados en la conferencia serán publicados en la revista Research in Computer Science.</source>
+				<target>To be published in the conference proceedings, an author of an accepted paper is required to register for the conference and the paper must be presented by an author of that paper at the conference. For authors with multiple accepted papers, one full registration is valid for up to 2 papers. </target>
+			</trans-unit>
+			<trans-unit id="16">
+				<source>Todos los artículos aceptados para ser presentados en las sesiones técnicas serán publicados en la revista Research in Computing Science, ISSN 1870-4069, publicada por el Instituto Politécnico Nacional de México</source>
+				<target>All papers accepted to be presented in the technical sessions will be published in the Research in Computing Science journal, ISSN 1870-4069, published by the National Polytechnic Institute of Mexico.</target>
+			</trans-unit>
+			<trans-unit id="17">
+				<source>El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas pueden descargarse aquí para Latex y Word.</source>
+				<target>All papers must use the LNCS Springer series format. The templates can be found here, for Latex and Windows.</target>
+			</trans-unit>
+			<trans-unit id="18">
+				<source>Comité Organizador</source>
+				<target>General Chairs</target>
+			</trans-unit>
+			<trans-unit id="19">
+				<source>Arnoldo Díaz-Ramirez (Tecnologico Nacional de México/IT de Mexicali)</source>
+				<target>Arnoldo Díaz-Ramirez (Tecnologico Nacional de México/IT de Mexicali)</target>
+			</trans-unit>
+			<trans-unit id="20">
+				<source>Carlos T. Calafate (Universidad Politécnica de Valencia, España)</source>
+				<target>Carlos T. Calafate (Technical University of Valencia, Spain)</target>
+			</trans-unit>
+			<trans-unit id="21">
+				<source>Comité Revisor</source>
+				<target>Program Committee</target>
+			</trans-unit>
+			<trans-unit id="22">
+				<source>Juan Carlos Cano (Universidad Politécnica de Valencia, España)</source>
+				<target>Juan Carlos Cano (Technical University of Valencia, Spain)</target>
+			</trans-unit>
+			<trans-unit id="23">
+				<source>Baldomero Coll (Miguel Hernandez University, España)</source>
+				<target>Baldomero Coll (Miguel Hernandez University, Spain)</target>
+			</trans-unit>
+			<trans-unit id="24">
+				<source>Juan Pablo García Vázquez (UABC, México)</source>
+				<target>Juan Pablo García Vázquez (UABC, México)</target>
+			</trans-unit>
+			<trans-unit id="25">
+				<source>Manuel Fogue (Universidad de Zaragoza, España)</source>
+				<target>Manuel Fogue (University of Zaragoza, Spain)</target>
+			</trans-unit>
+			<trans-unit id="26">
+				<source>Piedad Garrido (Universidad de Zaragoza, España)</source>
+				<target>Piedad Garrido (University of Zaragoza, Spain)</target>
+			</trans-unit>
+			<trans-unit id="27">
+				<source>Enrique Hernández (Universidad Politécnica de Valencia, España)</source>
+				<target>Enrique Hernández (Technical University of Valencia, Spain)</target>
+			</trans-unit>
+			<trans-unit id="28">
+				<source>Jorge Herrera Tapia (ULEAM, Ecuador)</source>
+				<target>Jorge Herrera Tapia (ULEAM, Ecuador)</target>
+			</trans-unit>
+			<trans-unit id="29">
+				<source>Pietro Manzoni (Universidad Politécnica de Valencia, España)</source>
+				<target>Pietro Manzoni (Technical University of Valencia, Spain)</target>
+			</trans-unit>
+			<trans-unit id="30">
+				<source>Johann Marquez-Barja (CTVR - Trinity College Dublin, Ireland)</source>
+				<target>Johann Marquez-Barja (CTVR - Trinity College Dublin, Ireland)</target>
+			</trans-unit>
+			<trans-unit id="31">
+				<source>Francisco J. Martinez (Universidad de Zaragoza, España)</source>
+				<target>Francisco J. Martinez (University of Zaragoza, Spain)</target>
+			</trans-unit>
+			<trans-unit id="32">
+				<source>Julio Sangüesa (Universidad de Zaragoza, España)</source>
+				<target>Julio Sangüesa (University of Zaragoza, Spain)</target>
+			</trans-unit>
+			<trans-unit id="33">
+				<source>Jose Santa (Universidad de Murcia, España)</source>
+				<target>Jose Santa (University of Murcia, Spain)</target>
+			</trans-unit>
+			<trans-unit id="34">
+				<source>Se invita al envío de ponencias originales y que no hayan sido publicadas previamente, que sean el resultado del trabajo en investigación en aplicaciones relacionadas con los tópicos de interés descritos a continuación, sin estar imitados a ellos:</source>
+				<target>We encourage the submission of original, unpublished research focused on (but not limited to) applications related to the following topics of interest:</target>
+			</trans-unit>
+			<trans-unit id="35">
+				<source>Redes inalámbricas de sensores</source>
+				<target>Wireless Sensor Networks</target>
+			</trans-unit>
+			<trans-unit id="36">
+				<source>eSalud y vida cotidiana asistida por el entorno</source>
+				<target>eHealth and Ambient Assisted Living</target>
+			</trans-unit>
+			<trans-unit id="37">
+				<source>Internet de las personas e Internet de las cosas</source>
+				<target>Internet of People and Internet of Things</target>
+			</trans-unit>
+			<trans-unit id="38">
+				<source>Ciudades inteligentes y redes computacionales urbanas</source>
+				<target>Smart Cities and Urban Computing Networking</target>
+			</trans-unit>
+			<trans-unit id="39">
+				<source>Sistemas de cómputo ubicuo y de inteligencia ambiental</source>
+				<target>Ubiquitous and ambient intelligence computing systems</target>
+			</trans-unit>
+			<trans-unit id="40">
+				<source>Computación en la nube</source>
+				<target>Networking for Cloud Computing</target>
+			</trans-unit>
+			<trans-unit id="41">
+				<source>Computación móvil en la nube y de vanguardia</source>
+				<target>Mobile Cloud Computing and Mobile Edge Computing</target>
+			</trans-unit>
+			<trans-unit id="42">
+				<source>Sistemas ciber-físicos</source>
+				<target>Cyber-physical systems</target>
+			</trans-unit>
+			<trans-unit id="43">
+				<source>Comunicación en grids inteligentes</source>
+				<target>Communications for Smart grid</target>
+			</trans-unit>
+			<trans-unit id="44">
+				<source>Redes vehiculares</source>
+				<target>Vehicular Networks</target>
+			</trans-unit>
+			<trans-unit id="45">
+				<source>Sistemas de procesamiento de señales</source>
+				<target>Signal processing systems</target>
+			</trans-unit>
+			<trans-unit id="46">
+				<source>Redes de próxima generación</source>
+				<target>Next Generation Networking</target>
+			</trans-unit>
+			<trans-unit id="47">
+				<source>Computación par a par</source>
+				<target>Peer-to-Peer networking</target>
+			</trans-unit>
+			<trans-unit id="48">
+				<source>Redes sociales y Web 2.0</source>
+				<target>Social Networks and Web 2.0</target>
+			</trans-unit>
+			<trans-unit id="49">
+				<source>Virtualización de redes</source>
+				<target>Network Functions Virtualization</target>
+			</trans-unit>
+			<trans-unit id="50">
+				<source>Redes definidas por software</source>
+				<target>Software Defined Networking</target>
+			</trans-unit>
+			<trans-unit id="51">
+				<source>Administración de grandes volúmenes de datos</source>
+				<target>Big Data Management</target>
+			</trans-unit>
+			<trans-unit id="52">
+				<source>Servicios multimedia interactivos</source>
+				<target>Multimedia interactive services</target>
+			</trans-unit>
+			<trans-unit id="53">
+				<source>Mayo</source>
+				<target>May</target>
+			</trans-unit>
+			<trans-unit id="54">
+				<source>Agosto</source>
+				<target>August</target>
+			</trans-unit>
+			<trans-unit id="55">
+				<source>Septiembre</source>
+				<target>September</target>
+			</trans-unit>
+			<trans-unit id="56">
+				<source>Octubre</source>
+				<target>October</target>
+			</trans-unit>
+			<trans-unit id="57">
+				<source>Noviembre</source>
+				<target>November</target>
+			</trans-unit>
+			<trans-unit id="58">
+				<source>Inicio de envío de ponencias</source>
+				<target>Submissions open</target>
+			</trans-unit>
+			<trans-unit id="59">
+				<source>Fecha límite de recepción de ponencias</source>
+				<target>Submissions deadline</target>
+			</trans-unit>
+			<trans-unit id="60">
+				<source>Notificación de aceptación</source>
+				<target>Acceptance of notification</target>
+			</trans-unit>
+			<trans-unit id="61">
+				<source>Versión final del artículo</source>
+				<target>Camera ready</target>
+			</trans-unit>
+			<trans-unit id="62">
+				<source>Fecha de la conferencia</source>
+				<target>Conference dates</target>
+			</trans-unit>
+			<trans-unit id="63">
+				<source>, seleccionando la conferencia ICCNA 2017. Los artículos deben ser escritos en inglés o español.</source>
+				<target> Web page, selecting ICCNA 2017. All final submissions should be written in English or Spanish.</target>
 			</trans-unit>
 		</body>
 	</file>
