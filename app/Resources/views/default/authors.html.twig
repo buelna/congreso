@@ -2,10 +2,10 @@
 
 {% block body %}
 {% trans %}Los artículos enviados deben contener material original que no esté sujeto a revisión en alguna otra conferencia o revista, o que no haya sido publicado previamente. La extensión máxima de cada artículo no debe ser mayor a doce páginas.{% endtrans %}<br><br>
-{% trans %}Los artículos deben ser enviados en formato .pdf a través del portal{% endtrans %} <a href="http://easychair.org">easychair.org</a>{% trans %}, seleccionando la conferencia ICCNA 2017. Los artículos deben ser escritos en inglés o español.{% endtrans %}<br><br>
+{% trans %}Los artículos deben ser enviados en formato .pdf a través del portal{% endtrans %} <a href="https://easychair.org/conferences/?conf=iccna20170">easychair.org</a>{% trans %}, seleccionando la conferencia ICCNA 2017. Los artículos deben ser escritos en inglés o español.{% endtrans %}<br><br>
 {% trans %}Para que el artículo sea publicado en la revista Research in Computer Science, ISSN 1870-4069, un autor del mismo debe registrarse y presentarlo en la conferencia. Para autores de diversos artículos aceptados, el pago de un registro es válido para dos artículos, que deberán ser presentados en la conferencia. Solo artículos registrados y presentados en la conferencia serán publicados en la revista Research in Computer Science.{% endtrans %}<br><br>
 {% trans %}Todos los artículos aceptados para ser presentados en las sesiones técnicas serán publicados en la revista Research in Computing Science, ISSN 1870-4069, publicada por el Instituto Politécnico Nacional de México{% endtrans %}<br><br>
-{% trans %}El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas para Latex y Word pueden descargarse{% endtrans %} <a href="#">{% trans %}aquí{% endtrans %}</a>.<br><br>
+{% trans %}El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas para Latex y Word pueden descargarse{% endtrans %} {% trans %}aquí{% endtrans %} (<a href="{{ asset('bundles/app/assets/llncs2e.zip') }}">Latex</a>,<a href="{{ asset('bundles/app/assets/splnproc1703.zip') }}">Word</a>).<br><br>
 {% endblock %}
 {% block stylesheets %} {% endblock %}
 {% block footer %}
