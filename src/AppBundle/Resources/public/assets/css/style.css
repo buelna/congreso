@@ -22,7 +22,7 @@ img{max-width:100%; height:auto}
 .alignleft{float:left; margin-left:0px}
 .aligncenter{display:block; margin:10px auto}
 .alignright{float:right; margin-left:10px}
-.floatleft{float:left;padding-top: 4%;padding-left: 4%;padding-right: 4%;}
+.floatleft{float:left;padding-top: 2%;padding-left: 3%;padding-right: 3%;}
 .floatright{float:right}
 .center{width:980px; display:block; margin:0 auto; padding:20px; background:#fff; transition:all 1.3s ease 0s; -moz-transition:all 1.3s ease 0s; -webkit-transition:all 1.3s ease 0s; -o-transition:all 1.3s ease 0s; -ms-transition:all 1.3s ease 0s}
 div{overflow:hidden}
