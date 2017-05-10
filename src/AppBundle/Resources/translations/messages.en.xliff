@@ -262,6 +262,30 @@
 				<source>Bienvenidos al ICCNA 2017</source>
 				<target>Welcome to the ICCNA 2017</target>
 			</trans-unit>
+			<trans-unit id="66">
+				<source>Victor Díaz-Ramírez (CITEDI-IPN, México)</source>
+				<target>Victor Díaz-Ramírez (CITEDI-IPN, Mexico)</target>
+			</trans-unit>
+			<trans-unit id="67">
+				<source>Luis A. Martínez Alvarado (Instituto Tecnológico de Mexicali, México)</source>
+				<target>Luis A. Martínez Alvarado (Technical Institute of Mexicali, Mexico)</target>
+			</trans-unit>
+			<trans-unit id="68">
+				<source>Vidblain Amaro Ortega  (Instituto Tecnológico de Mexicali, México)</source>
+				<target>Vidblain Amaro Ortega  (Technical Institute of Mexicali, Mexico)</target>
+			</trans-unit>
+			<trans-unit id="69">
+				<source>Abelardo Rodríguez León (Instituto Tecnológico de Veracruz, México)</source>
+				<target>Abelardo Rodríguez León (Technical Institute of Veracruz, Mexico)</target>
+			</trans-unit>
+			<trans-unit id="70">
+				<source>Jessica Beltran Marquez (CITEDI-IPN, México)</source>
+				<target>Jessica Beltran Marquez (CITEDI-IPN, Mexico)</target>
+			</trans-unit>
+			<trans-unit id="71">
+				<source>Fabian Natanael Murrieta Rico (CICESE, México)</source>
+				<target>Fabian Natanael Murrieta Rico (CICESE, Mexico)</target>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>
