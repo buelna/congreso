@@ -286,6 +286,10 @@
 				<source>Fabian Natanael Murrieta Rico (CICESE, México)</source>
 				<target>Fabian Natanael Murrieta Rico (CICESE, Mexico)</target>
 			</trans-unit>
+			<trans-unit id="72">
+				<source>y</source>
+				<target>and</target>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>
