@@ -294,6 +294,10 @@
 				<source>Carlos Lino Ramírez (Instituto Tecnológico de León, México)</source>
 				<target>Carlos Lino Ramírez (Technical Institute of Leon, Mexico)</target>
 			</trans-unit>
+			<trans-unit id="74">
+				<source>Ponencias</source>
+				<target>Presentations</target>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>

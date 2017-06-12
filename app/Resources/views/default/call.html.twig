@@ -1,6 +1,8 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
+<a href="#" id="ponencias"><h2>{% trans %}Ponencias{% endtrans %}</h2> </a> 
+<div id="ponencias1" style="display:none">
 {% trans %}
 Se invita al envío de ponencias originales y que no hayan sido publicadas previamente, que sean el resultado del trabajo en investigación en aplicaciones relacionadas con los tópicos de interés descritos a continuación, sin estar imitados a ellos:
 {% endtrans %}<br><br> 
@@ -24,6 +26,7 @@ Se invita al envío de ponencias originales y que no hayan sido publicadas previ
 <li>{% trans %}Administración de grandes volúmenes de datos{% endtrans %}</li>
 <li>{% trans %}Servicios multimedia interactivos {% endtrans %}</li>
 </ul>
+</div>
 {% endblock %}
 {% block stylesheets %} {% endblock %}
 {% block footer %}
