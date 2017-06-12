@@ -298,6 +298,14 @@
 				<source>Ponencias</source>
 				<target>Presentations</target>
 			</trans-unit>
+			<trans-unit id="75">
+				<source>Carteles</source>
+				<target>Posters</target>
+			</trans-unit>
+			<trans-unit id="76">
+				<source>Coloquio de posgrado</source>
+				<target>Graduate colloquium</target>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>
