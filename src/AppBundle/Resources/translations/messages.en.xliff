@@ -303,8 +303,200 @@
 				<target>Posters</target>
 			</trans-unit>
 			<trans-unit id="76">
-				<source>Coloquio de posgrado</source>
-				<target>Graduate colloquium</target>
+				<source>Consorcio de posgrado</source>
+				<target>Graduate Consortium</target>
+			</trans-unit>
+			<trans-unit id="77">
+				<source>Se extiende la presente invitación a investigadores y estudiantes a participar en la presentación de carteles en la Conferencia Internacional en Aplicaciones de las Redes de Computadoras (ICCNA), que se realizará el 7 de noviembre en la ciudad de Mexicali, Baja California, México.</source>
+				<target>We extend an invitation to researchers and students to participate in the poster presentation during the International Conference on Computer Networks Applications (ICCNA), to be held on November 7th in the city of Mexicali, Baja California Mexico.</target>
+			</trans-unit>
+			<trans-unit id="78">
+				<source>Durante esta sesión, estudiantes e investigadores tendrán la oportunidad de difundir su trabajo a la comunidad científica (por ejemplo, trabajo en proceso).</source>
+				<target>During this session, students and researchers will have the opportunity to disseminate their work to the scientific community (e.g., work in progress).</target>
+			</trans-unit>
+			<trans-unit id="79">
+				<source>La propuesta de carteles debe estar relacionada con las siguientes áreas, aunque no limitadas a ellas:</source>
+				<target>The poster proposal should be related, but not limited to, the following areas:</target>
+			</trans-unit>
+			<trans-unit id="80">
+				<source>El póster debe contener la descripción de su estudio y debe estructurarse en diferentes secciones como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Agradecimientos (si aplica) y Referencias.  Puede ser escrito en inglés o español, con un máximo de cuatro páginas. La plantilla para el póster está disponible en http://iccna.itmexicali.edu.mx/es/authors. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.</source>
+				<target>The poster should contain the description of your study and should be structured in different sections such as: Abstract, Introduction, Methodology, Results, Conclusions, Acknowledgements (if applicable) and References. It can be written in English or Spanish, with a maximum of four pages. The template for the document describing your poster is available at http://iccna.itmexicali.edu.mx/es/authors. The proposals must be submit to poster_iccna@itmexicali.edu.mx in pdf format.</target>
+			</trans-unit>
+			<trans-unit id="81">
+				<source>Todos los carteles aceptados se publicarán en  memoria digital con ISBN.</source>
+				<target>All accepted posters will be published in the digital memory with ISBN.</target>
+			</trans-unit>
+			<trans-unit id="82">
+				<source>Las propuestas aceptadas deben presentarse en un póster de 90 x 120 cm en formato vertical, el texto debe ser legible a 2,5 metros de distancia. Las imágenes y tablas tendrán una medida mínima de 20 x 20 cm, se incluirá una breve explicación del contenido y la fuente de la información en la parte inferior de cada imagen/tabla. La plantilla está disponible en http://iccna.itmexicali.edu.mx/en/authors</source>
+				<target>Accepted proposals must be presented in a poster of 90 x 120 cm in vertical format, the text must be legible 2.5 meters away. The images and tables will have a minimum measurement of 20 x 20 cm, a brief explanation of the content and the source of the information will be included at the bottom of each image/table. The template is available in  http://iccna.itmexicali.edu.mx/en/authors</target>
+			</trans-unit>
+			<trans-unit id="83">
+				<source>El comité organizador de la International Conference on Computer Networks Applications (ICCNA 2017) convoca a estudiantes que esten realizando estudios de maestría y doctorado en el país o en el extranjero a participar en el Consorcio de Posgrado. Este evento es un foro para que estudiantes de maestría y doctorado en ciencias e ingeniería presenten avances de su trabajo y obtengan retroalimentación por parte de reconocidos investigadores y de otros participantes del evento. El Consorcio de Posgrado de ICCNA 2017 se llevará a cabo el día 7 de Noviembre de 2017.</source>
+				<target>The Graduate Student Colloquium will provide a friendly, supportive, and constructive atmosphere where graduate students can present their research-in-progress for an open discussion, guided by a panel of experienced researchers and practitioners. The colloquium offers students the valuable opportunity to receive feedback and perspectives from recognized experts in the field.</target>
+			</trans-unit>
+			<trans-unit id="84">
+				<source>Coordinadores de carteles</source>
+				<target>Posters chairs</target>
+			</trans-unit>
+			<trans-unit id="85">
+				<source>Objetivos del Consorcio de Posgrado:</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="86">
+				<source>Mecánica del Consorcio de Posgrado:</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="87">
+				<source>El seminario consistirá de dos sesiones de presentaciones. En la primera sesión se presentaran los trabajos de maestría, mientras que en la segunda sesión los de doctorado. Los trabajos a presentar serán organizados por temática.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="88">
+				<source>Cada alumno realizará una presentación con duración de 15 minutos, posterior a la presentación habrá una sesión de 10 minutos, en la cual un comité de académicos preguntará al alumno y/o proporcionará sugerencias o recomendaciones, las cuales le ayudarán a identificar las fortalezas y debilidades de su trabajo de investigación. Finalmente, se realizará una sesión de 5 minutos de preguntas y respuestas con el público en general.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="89">
+				<source>Ofrecer a los estudiantes de posgrado la oportunidad de compartir y discutir sus trabajos de investigación con un panel de académicos reconocidos.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="91">
+				<source>Fomentar la participación de los estudiantes en eventos de investigación.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="92">
+				<source>Promover la colaboración entre los estudiantes de posgrado y la comunidad de investigación de ciencias de la computación en México.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="93">
+				<source>Coordinadores del Consorcio de Posgrado</source>
+				<target>Graduate Student Colloquium Chairs</target>
+			</trans-unit>
+			<trans-unit id="94">
+				<source>Los artículos deben ser enviados en formato .pdf en un máximo de 4 hojas, la plantilla podrá encontrarla en instrucciones para autores (http://iccna.itmexicali.edu.mx/es/authors). Enviar el artículo al correo consortium_iccna@itmexicali.edu.mx. Las propuestas deben ser enviadas para su evaluación como archivos PDF (nota: utilizar el siguiente formato: “apellido_paterno-apellido_materno.pdf”).</source>
+				<target>A research summary (4 pages) describing the work in progress, and including a 100 word abstract. Things to consider for inclusion in the research summary are: the expected contribution to the field; the original idea or thesis statement; the problem domain and the specific problem addressed; a brief overview of related work; the methodological approach; research carried out and results so far. All research summaries should outline what work remains to be done for the dissertation and indicate the plan for completion.The template for the research summary is available in http://iccna.itmexicali.edu.mx/es/authors.</target>
+			</trans-unit>
+			<trans-unit id="95">
+				<source>El Resumen de la investigación debe contener:</source>
+				<target>The research summary must contain:</target>
+			</trans-unit>
+			<trans-unit id="96">
+				<source>Introducción</source>
+				<target>Introduction</target>
+			</trans-unit>
+			<trans-unit id="97">
+				<source>Trabajos relacionado</source>
+				<target>Related work</target>
+			</trans-unit>
+			<trans-unit id="98">
+				<source>Objetivos de la investigación</source>
+				<target>Research objectives</target>
+			</trans-unit>
+			<trans-unit id="99">
+				<source>Metodología</source>
+				<target>Methodology</target>
+			</trans-unit>
+			<trans-unit id="100">
+				<source>Resultados logrados (avance)</source>
+				<target>Results achieved</target>
+			</trans-unit>
+			<trans-unit id="101">
+				<source>Conclusiones</source>
+				<target>Conclusions</target>
+			</trans-unit>
+			<trans-unit id="102">
+				<source>Referencias bibliográficas</source>
+				<target>References</target>
+			</trans-unit>
+			<trans-unit id="103">
+				<source>Los resúmenes de investigación deberán ser enviados a la siguiente dirección de correo electrónico: consortium_iccna@itmexicali.edu.mx</source>
+				<target>The research summary must be submit to consortium_iccna@itmexicali.edu.mx in pdf format.</target>
+			</trans-unit>
+			<trans-unit id="104">
+				<source>Las actividades de la ICCNA se llevarán a cabo en el Hotel Araiza Mexicali, que está localizado en el corazón de la zona turística de la ciudad.</source>
+				<target>The ICCNA will be held in the Hotel Araiza Mexicali, which is located at the heart of the touristic zone of the city. </target>
+			</trans-unit>
+			<trans-unit id="105">
+				<source>Teléfono 01 (686) 564-1100 Ext. 753 y 762. Llamada sin costo 01-800-026-5444</source>
+				<target>Phone. +52 (686) 564-1100 Ext. 753 and 762. Toll free 01-800-026-5444 (from México)</target>
+			</trans-unit>
+			<trans-unit id="106">
+				<source>Al hacer la reservación, favor de identificarse con el nombre ICCNA 2017.</source>
+				<target>Please identify yourself with ICCNA 2017.</target>
+			</trans-unit>
+			<trans-unit id="107">
+				<source>http://www.araizahoteles.com/araiza/index.php/es/</source>
+				<target>http://www.araizahoteles.com/araiza/index.php/en/</target>
+			</trans-unit>
+			<trans-unit id="108">
+				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Los precios no incluyen IVA (16&#37;) ni Impuesto sobre Hospedaje (3&#37;).</source>
+				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax (16&#37;) and Lodging Tax (3&#37;).</target>
+			</trans-unit>
+			<trans-unit id="109">
+				<source>Habitación estándar 900.00 pesos</source>
+				<target>Standard room 900.00 Mexican pesos</target>
+			</trans-unit>
+			<trans-unit id="110">
+				<source>También se tiene disponible la opción de hospedaje en el Hotel Calafia Mexicali, que está muy cerca del hotel sede.</source>
+				<target>Also, there is the option of the Hotel Calafia Mexicali, which is very close to the conference venue. </target>
+			</trans-unit>
+			<trans-unit id="111">
+				<source>Teléfono 01 (686) 568-3311 Ext. 566. Llamada sin costo 01-800-026-5444</source>
+				<target>Phone +52 (686) 568-3311 Ext. 566. Toll free 01-800-026-5444 (from México)</target>
+			</trans-unit>
+			<trans-unit id="112">
+				<source>http://www.araizahoteles.com/calafia/index.php/es/</source>
+				<target>http://www.araizahoteles.com/calafia/index.php/en/</target>
+			</trans-unit>
+			<trans-unit id="113">
+				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Los precios no incluyen IVA (16&#37;) ni Impuesto sobre Hospedaje (3&#37;).</source>
+				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax (16&#37;) and Lodging Tax (3&#37;).</target>
+			</trans-unit>
+			<trans-unit id="114">
+				<source>Habitación estándar 690.00 pesos</source>
+				<target>Standard room 690.00 Mexican pesos</target>
+			</trans-unit>
+			<trans-unit id="115">
+				<source>Habitación estándar superior 1,190.00 pesos</source>
+				<target>Standard superior 1,190.00 Mexican pesos</target>
+			</trans-unit>
+			<trans-unit id="116">
+				<source>Habitación estándar superior 765.00 pesos</source>
+				<target>Standard superior 765.00 Mexican pesos</target>
+			</trans-unit>
+			<trans-unit id="117">
+				<source>Todos los autores y asistentes deben registrarse para poder participar en la actividades de la conferencia.</source>
+				<target>All Authors and Attendees must register in order to participate in the conference activities.</target>
+			</trans-unit>
+			<trans-unit id="118">
+				<source>Es importante tener en cuenta que para ser publicado en la revista Research in Computer Science (artículos) y en las memorias en extenso de la ICCNA 2017 (carteles y consorcio de Posgrado), un autor de un trabajo aceptado debe registrarse y debe presentarlo en la conferencia, amenos que tenga la autorización del comité organizador para que alguien que no sea autor lo presente. El pago de registro no es reembolsable y debe hacerse antes del envío de la versión final del trabajo. Para autores con mas de un trabajo aceptado, el pago de un registro es válido hasta por dos trabajos.</source>
+				<target>PLEASE NOTE that to be published in the Research in Computer Science Journal (Papers) and in the ICCNA 2017 Conference Proceedings (Posters and Graduate Consortium) an author of an accepted paper is required to register for the conference at the full rate and the work must be presented by an author of that paper at the conference unless the TPC Chair grants permission for a substitute presenter arranged in advance of the event and who is qualified both to present and answer questions. Non-refundable registration fees must be paid prior to uploading the final version of the paper. For authors with multiple accepted papers, one full registration is valid for up to 2 papers. </target>
+			</trans-unit>
+			<trans-unit id="119">
+				<source>Cuotas:</source>
+				<target>Fees:</target>
+			</trans-unit>
+			<trans-unit id="120">
+				<source>Registro de autor con artículo aceptado:  3,600 pesos</source>
+				<target>Author registration for paper:  200 USD</target>
+			</trans-unit>
+			<trans-unit id="121">
+				<source>Registro de autor con cartel o participación en consorcio de posgrado aceptada: 1,800 pesos</source>
+				<target>Author registration for poster or graduate consortium: 100 USD</target>
+			</trans-unit>
+			<trans-unit id="122">
+				<source>Asistente con pago antes o el 31 de Octubre:  600 pesos</source>
+				<target>Attendee registration on/by October 31:  35 USD</target>
+			</trans-unit>
+			<trans-unit id="123">
+				<source>Asistentes con pago después del 31 de Octubre:  800 pesos</source>
+				<target>Attendee registration after October 31:  45 USD</target>
+			</trans-unit>
+			<trans-unit id="124">
+				<source>Estudiante con pago antes o el 31 de Octubre:  300 pesos</source>
+				<target>Student registration on/by October 31: 17.50 USD</target>
+			</trans-unit>
+			<trans-unit id="125">
+				<source>Estudiante con pago después del 31 de Octubre:  450 pesos</source>
+				<target>Student registration after October 31:  25 USD</target>
 			</trans-unit>
 		</body>
 	</file>

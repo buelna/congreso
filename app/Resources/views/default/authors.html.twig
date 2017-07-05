@@ -11,11 +11,36 @@
 </div>
 <a href="#" id="carteles"><h2>{% trans %}Carteles{% endtrans %}</h2> </a> 
 <div id="carteles1" style="display:none">
-<h2>To be announced</h2>
+{% trans %}
+El póster debe contener la descripción de su estudio y debe estructurarse en diferentes secciones como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Agradecimientos (si aplica) y Referencias.  Puede ser escrito en inglés o español, con un máximo de cuatro páginas. La plantilla para el póster está disponible en http://iccna.itmexicali.edu.mx/es/authors. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.
+{% endtrans %}<br><br>
+{% trans %}
+Todos los carteles aceptados se publicarán en  memoria digital con ISBN.
+{% endtrans %}<br><br>
+{% trans %}
+Las propuestas aceptadas deben presentarse en un póster de 90 x 120 cm en formato vertical, el texto debe ser legible a 2,5 metros de distancia. Las imágenes y tablas tendrán una medida mínima de 20 x 20 cm, se incluirá una breve explicación del contenido y la fuente de la información en la parte inferior de cada imagen/tabla. La plantilla está disponible en http://iccna.itmexicali.edu.mx/en/authors
+{% endtrans %}<br><br>
 </div>
-<a href="#" id="coloquio"><h2>{% trans %}Coloquio de posgrado{% endtrans %}</h2> </a> 
+<a href="#" id="coloquio"><h2>{% trans %}Consorcio de posgrado{% endtrans %}</h2> </a> 
 <div id="coloquio1" style="display:none">
-<h2>To be announced</h2>
+{% trans %}
+Los artículos deben ser enviados en formato .pdf en un máximo de 4 hojas, la plantilla podrá encontrarla en instrucciones para autores (http://iccna.itmexicali.edu.mx/es/authors). Enviar el artículo al correo consortium_iccna@itmexicali.edu.mx. Las propuestas deben ser enviadas para su evaluación como archivos PDF (nota: utilizar el siguiente formato: “apellido_paterno-apellido_materno.pdf”).
+{% endtrans %}
+{% trans %}<br><br>
+El Resumen de la investigación debe contener:
+{% endtrans %}<br><br>
+<ul>
+<li>{% trans %}Introducción{% endtrans %}</li>
+<li>{% trans %}Trabajos relacionado{% endtrans %}</li>
+<li>{% trans %}Objetivos de la investigación{% endtrans %}</li>
+<li>{% trans %}Metodología{% endtrans %}</li>
+<li>{% trans %}Resultados logrados (avance){% endtrans %}</li>
+<li>{% trans %}Conclusiones{% endtrans %}</li>
+<li>{% trans %}Referencias bibliográficas{% endtrans %}</li>
+</ul>
+{% trans %}<br>
+Los resúmenes de investigación deberán ser enviados a la siguiente dirección de correo electrónico: consortium_iccna@itmexicali.edu.mx
+{% endtrans %}
 </div>
 {% endblock %}
 {% block stylesheets %} {% endblock %}
