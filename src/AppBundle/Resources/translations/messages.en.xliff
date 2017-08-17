@@ -240,7 +240,7 @@
 			</trans-unit>
 			<trans-unit id="60">
 				<source>Notificación de aceptación</source>
-				<target>Acceptance of notification</target>
+				<target>Acceptance notification</target>
 			</trans-unit>
 			<trans-unit id="61">
 				<source>Versión final del artículo</source>
@@ -259,7 +259,7 @@
 				<target>here</target>
 			</trans-unit>
 			<trans-unit id="65">
-				<source>Bienvenidos al ICCNA 2017</source>
+				<source>Bienvenido a la ICCNA 2017</source>
 				<target>Welcome to the ICCNA 2017</target>
 			</trans-unit>
 			<trans-unit id="66">
@@ -371,7 +371,7 @@
 				<target>Graduate Student Colloquium Chairs</target>
 			</trans-unit>
 			<trans-unit id="94">
-				<source>Los artículos deben ser enviados en formato .pdf en un máximo de 4 hojas, la plantilla podrá encontrarla en instrucciones para autores (http://iccna.itmexicali.edu.mx/es/authors). Enviar el artículo al correo consortium_iccna@itmexicali.edu.mx. Las propuestas deben ser enviadas para su evaluación como archivos PDF (nota: utilizar el siguiente formato: “apellido_paterno-apellido_materno.pdf”).</source>
+				<source>Los artículos deben ser enviados en formato .pdf en un máximo de 4 hojas, la plantilla podrá encontrarla en instrucciones para autores (http://iccna.itmexicali.edu.mx/es/authors). Las propuestas deben ser enviadas para su evaluación como archivos PDF (nota: utilizar el siguiente formato: “apellido_paterno-apellido_materno.pdf”).</source>
 				<target>A research summary (4 pages) describing the work in progress, and including a 100 word abstract. Things to consider for inclusion in the research summary are: the expected contribution to the field; the original idea or thesis statement; the problem domain and the specific problem addressed; a brief overview of related work; the methodological approach; research carried out and results so far. All research summaries should outline what work remains to be done for the dissertation and indicate the plan for completion.The template for the research summary is available in http://iccna.itmexicali.edu.mx/es/authors.</target>
 			</trans-unit>
 			<trans-unit id="95">
@@ -467,7 +467,7 @@
 				<target>All Authors and Attendees must register in order to participate in the conference activities.</target>
 			</trans-unit>
 			<trans-unit id="118">
-				<source>Es importante tener en cuenta que para ser publicado en la revista Research in Computer Science (artículos) y en las memorias en extenso de la ICCNA 2017 (carteles y consorcio de Posgrado), un autor de un trabajo aceptado debe registrarse y debe presentarlo en la conferencia, amenos que tenga la autorización del comité organizador para que alguien que no sea autor lo presente. El pago de registro no es reembolsable y debe hacerse antes del envío de la versión final del trabajo. Para autores con mas de un trabajo aceptado, el pago de un registro es válido hasta por dos trabajos.</source>
+				<source>Es importante tener en cuenta que para ser publicado en la revista Research in Computer Science (artículos) y en las memorias en extenso de la ICCNA 2017 (carteles y consorcio de Posgrado), un autor de un trabajo aceptado debe registrarse y presentarlo en la conferencia, a menos que tenga la autorización del comité organizador para que alguien que no sea autor lo presente. El pago de registro no es reembolsable y debe hacerse antes del envío de la versión final del trabajo. Para autores con mas de un trabajo aceptado, el pago de un registro es válido hasta por dos trabajos.</source>
 				<target>PLEASE NOTE that to be published in the Research in Computer Science Journal (Papers) and in the ICCNA 2017 Conference Proceedings (Posters and Graduate Consortium) an author of an accepted paper is required to register for the conference at the full rate and the work must be presented by an author of that paper at the conference unless the TPC Chair grants permission for a substitute presenter arranged in advance of the event and who is qualified both to present and answer questions. Non-refundable registration fees must be paid prior to uploading the final version of the paper. For authors with multiple accepted papers, one full registration is valid for up to 2 papers. </target>
 			</trans-unit>
 			<trans-unit id="119">
@@ -497,6 +497,18 @@
 			<trans-unit id="125">
 				<source>Estudiante con pago después del 31 de Octubre:  450 pesos</source>
 				<target>Student registration after October 31:  25 USD</target>
+			</trans-unit>
+			<trans-unit id="126">
+				<source>Fecha límite de recepción de resúmenes:  6 de Septiembre de 2017</source>
+				<target>Submissions deadline: September 6, 2017</target>
+			</trans-unit>
+			<trans-unit id="127">
+				<source>Notificación de aceptación:  13 de Septiembre de 2017</source>
+				<target>Acceptance notification: September 13, 2017</target>
+			</trans-unit>
+			<trans-unit id="128">
+				<source>Versión final del artículo:  20 de Septiembre de 2017</source>
+				<target>Camera ready: September 20, 2017</target>
 			</trans-unit>
 		</body>
 	</file>
