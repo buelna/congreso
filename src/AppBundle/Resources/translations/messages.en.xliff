@@ -319,20 +319,20 @@
 				<target>The poster proposal should be related, but not limited to, the following areas:</target>
 			</trans-unit>
 			<trans-unit id="80">
-				<source>El cartel debe contener la descripción de su estudio y debe estructurarse en diferentes secciones como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Agradecimientos (si aplica) y Referencias.  Puede ser escrito en inglés o español, con un máximo de cuatro páginas. La plantilla para el cartel está disponible en http://iccna.itmexicali.edu.mx/es/authors. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.</source>
-				<target>The poster should contain the description of your study and should be structured in different sections such as: Abstract, Introduction, Methodology, Results, Conclusions, Acknowledgements (if applicable) and References. It can be written in English or Spanish, with a maximum of four pages. The template for the document describing your poster is available at http://iccna.itmexicali.edu.mx/es/authors. The proposals must be submit to poster_iccna@itmexicali.edu.mx in pdf format.</target>
+				<source>El cartel debe contener la descripción de su estudio y debe estructurarse en diferentes secciones como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Agradecimientos (si aplica) y Referencias.  Puede ser escrito en inglés o español, con un máximo de seis páginas. La plantilla para el cartel está disponible en http://iccna.itmexicali.edu.mx/es/authors y se utilizara la misma que para ponencias. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.</source>
+				<target>The poster should contain the description of your study and should be structured in different sections such as: Abstract, Introduction, Methodology, Results, Conclusions, Acknowledgements (if applicable) and References. It can be written in English or Spanish, with a maximum of six pages. The template for the document describing your poster is available at http://iccna.itmexicali.edu.mx/es/authors and the same template will be used as for papers. The proposals must be submit to poster_iccna@itmexicali.edu.mx in pdf format.</target>
 			</trans-unit>
 			<trans-unit id="81">
 				<source>Todos los carteles aceptados se publicarán en  memoria digital con ISBN.</source>
 				<target>All accepted posters will be published in the digital memory with ISBN.</target>
 			</trans-unit>
 			<trans-unit id="82">
-				<source>Las propuestas aceptadas deben presentarse en un cartel de 90 x 120 cm en formato vertical, el texto debe ser legible a 2,5 metros de distancia. Las imágenes y tablas tendrán una medida mínima de 20 x 20 cm, se incluirá una breve explicación del contenido y la fuente de la información en la parte inferior de cada imagen/tabla. La plantilla está disponible en http://iccna.itmexicali.edu.mx/en/authors</source>
-				<target>Accepted proposals must be presented in a poster of 90 x 120 cm in vertical format, the text must be legible 2.5 meters away. The images and tables will have a minimum measurement of 20 x 20 cm, a brief explanation of the content and the source of the information will be included at the bottom of each image/table. The template is available in  http://iccna.itmexicali.edu.mx/en/authors</target>
+				<source>Las propuestas aceptadas deben presentarse en un cartel de 90 x 120 cm en formato vertical, el texto debe ser legible a 2,5 metros de distancia. Las imágenes y tablas tendrán una medida mínima de 20 x 20 cm, se incluirá una breve explicación del contenido y la fuente de la información en la parte inferior de cada imagen/tabla.</source>
+				<target>Accepted proposals must be presented in a poster of 90 x 120 cm in vertical format, the text must be legible 2.5 meters away. The images and tables will have a minimum measurement of 20 x 20 cm, a brief explanation of the content and the source of the information will be included at the bottom of each image/table.</target>
 			</trans-unit>
 			<trans-unit id="83">
 				<source>El comité organizador de la International Conference on Computer Networks Applications (ICCNA 2017) convoca a estudiantes que esten realizando estudios de maestría y doctorado en el país o en el extranjero a participar en el Consorcio de Posgrado. Este evento es un foro para que estudiantes de maestría y doctorado en ciencias e ingeniería presenten avances de su trabajo y obtengan retroalimentación por parte de reconocidos investigadores y de otros participantes del evento. El Consorcio de Posgrado de ICCNA 2017 se llevará a cabo el día 7 de Noviembre de 2017.</source>
-				<target>The Graduate Student Colloquium will provide a friendly, supportive, and constructive atmosphere where graduate students can present their research-in-progress for an open discussion, guided by a panel of experienced researchers and practitioners. The colloquium offers students the valuable opportunity to receive feedback and perspectives from recognized experts in the field.</target>
+				<target>The Graduate Student Consortium will provide a friendly, supportive, and constructive atmosphere where graduate students can present their research-in-progress for an open discussion, guided by a panel of experienced researchers and practitioners. The colloquium offers students the valuable opportunity to receive feedback and perspectives from recognized experts in the field.</target>
 			</trans-unit>
 			<trans-unit id="84">
 				<source>Coordinadores de carteles</source>
@@ -371,8 +371,8 @@
 				<target>Graduate Student Colloquium Chairs</target>
 			</trans-unit>
 			<trans-unit id="94">
-				<source>Los artículos deben ser enviados en formato .pdf en un máximo de 4 hojas, la plantilla podrá encontrarla en instrucciones para autores (http://iccna.itmexicali.edu.mx/es/authors). Las propuestas deben ser enviadas para su evaluación como archivos PDF (nota: utilizar el siguiente formato: “apellido_paterno-apellido_materno.pdf”).</source>
-				<target>A research summary (4 pages) describing the work in progress, and including a 100 word abstract. Things to consider for inclusion in the research summary are: the expected contribution to the field; the original idea or thesis statement; the problem domain and the specific problem addressed; a brief overview of related work; the methodological approach; research carried out and results so far. All research summaries should outline what work remains to be done for the dissertation and indicate the plan for completion.The template for the research summary is available in http://iccna.itmexicali.edu.mx/es/authors.</target>
+				<source>Los artículos deben ser enviados en formato .pdf en un máximo de 6 páginas, la plantilla podrá encontrarla en instrucciones para autores (http://iccna.itmexicali.edu.mx/es/authors). Las propuestas deben ser enviadas para su evaluación como archivos PDF (nota: utilizar el siguiente formato: “apellido_paterno-apellido_materno.pdf”).</source>
+				<target>A research summary (6 pages) describing the work in progress, and including a 100 word abstract. Things to consider for inclusion in the research summary are: the expected contribution to the field; the original idea or thesis statement; the problem domain and the specific problem addressed; a brief overview of related work; the methodological approach; research carried out and results so far. All research summaries should outline what work remains to be done for the dissertation and indicate the plan for completion.The template for the research summary is available in http://iccna.itmexicali.edu.mx/es/authors.</target>
 			</trans-unit>
 			<trans-unit id="95">
 				<source>El Resumen de la investigación debe contener:</source>
@@ -407,8 +407,8 @@
 				<target>References</target>
 			</trans-unit>
 			<trans-unit id="103">
-				<source>Los resúmenes de investigación deberán ser enviados a la siguiente dirección de correo electrónico: consortium_iccna@itmexicali.edu.mx</source>
-				<target>The research summary must be submit to consortium_iccna@itmexicali.edu.mx in pdf format.</target>
+				<source>Los resúmenes de investigación deberán ser enviados a la siguiente dirección de correo electrónico: consortium_iccna@itmexicali.edu.mx, indicando si participara en el consorcio de maestria o doctorado</source>
+				<target>The research summary must be submit to consortium_iccna@itmexicali.edu.mx in pdf format, indicating whether you participate in the master's degree or doctorate's consortium.</target>
 			</trans-unit>
 			<trans-unit id="104">
 				<source>Las actividades de la ICCNA se llevarán a cabo en el Hotel Araiza Mexicali, que está localizado en el corazón de la zona turística de la ciudad.</source>
@@ -509,6 +509,10 @@
 			<trans-unit id="128">
 				<source>Versión final del artículo:  20 de Septiembre de 2017</source>
 				<target>Camera ready: September 20, 2017</target>
+			</trans-unit>
+			<trans-unit id="129">
+				<source>Alan Díaz-Montiel (CONNECT Center - TCD, Irlanda)</source>
+				<target>Alan Díaz-Montiel (CONNECT Center - TCD, Ireland)</target>
 			</trans-unit>
 		</body>
 	</file>
