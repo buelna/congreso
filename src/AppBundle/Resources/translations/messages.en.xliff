@@ -499,16 +499,16 @@
 				<target>Student registration after October 31:  25 USD</target>
 			</trans-unit>
 			<trans-unit id="126">
-				<source>Fecha límite de recepción de resúmenes:  6 de Septiembre de 2017</source>
-				<target>Submissions deadline: September 6, 2017</target>
+				<source>Fecha límite de recepción de resúmenes</source>
+				<target>Submissions deadline</target>
 			</trans-unit>
 			<trans-unit id="127">
-				<source>Notificación de aceptación:  13 de Septiembre de 2017</source>
-				<target>Acceptance notification: September 13, 2017</target>
+				<source>Notificación de aceptación</source>
+				<target>Acceptance notification</target>
 			</trans-unit>
 			<trans-unit id="128">
-				<source>Versión final del artículo:  20 de Septiembre de 2017</source>
-				<target>Camera ready: September 20, 2017</target>
+				<source>Versión final del artículo</source>
+				<target>Camera ready</target>
 			</trans-unit>
 			<trans-unit id="129">
 				<source>Alan Díaz-Montiel (CONNECT Center - TCD, Irlanda)</source>
