@@ -307,8 +307,8 @@
 				<target>Graduate Consortium</target>
 			</trans-unit>
 			<trans-unit id="77">
-				<source>Se extiende la presente invitación a investigadores y estudiantes a participar en la presentación de carteles en la Conferencia Internacional en Aplicaciones de las Redes de Computadoras (ICCNA), que se realizará el 7 de noviembre en la ciudad de Mexicali, Baja California, México.</source>
-				<target>We extend an invitation to researchers and students to participate in the poster presentation during the International Conference on Computer Networks Applications (ICCNA), to be held on November 7th in the city of Mexicali, Baja California Mexico.</target>
+				<source>El Comité Organizador de la Conferencia Internacional en Aplicaciones de las Redes de Computadoras (ICCNA 2017) hace una atenta invitación a  investigadores y estudiantes a participar en la sesión de presentación de carteles, que se llevará a cabo el 7 de noviembre en la ciudad de Mexicali, Baja California, México.</source>
+				<target>We extend an invitation to researchers and students to participate in the poster presentation during the International Conference on Computer Networks Applications (ICCNA 2017), to be held on November 7th in the city of Mexicali, Baja California Mexico.</target>
 			</trans-unit>
 			<trans-unit id="78">
 				<source>Durante esta sesión, estudiantes e investigadores tendrán la oportunidad de difundir su trabajo a la comunidad científica (por ejemplo, trabajo en proceso).</source>
@@ -319,12 +319,12 @@
 				<target>The poster proposal should be related, but not limited to, the following areas:</target>
 			</trans-unit>
 			<trans-unit id="80">
-				<source>El cartel debe contener la descripción de su estudio y debe estructurarse en diferentes secciones como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Agradecimientos (si aplica) y Referencias.  Puede ser escrito en inglés o español, con un máximo de seis páginas. La plantilla para el cartel está disponible en http://iccna.itmexicali.edu.mx/es/authors y se utilizara la misma que para ponencias. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.</source>
-				<target>The poster should contain the description of your study and should be structured in different sections such as: Abstract, Introduction, Methodology, Results, Conclusions, Acknowledgements (if applicable) and References. It can be written in English or Spanish, with a maximum of six pages. The template for the document describing your poster is available at http://iccna.itmexicali.edu.mx/es/authors and the same template will be used as for papers. The proposals must be submit to poster_iccna@itmexicali.edu.mx in pdf format.</target>
+				<source>El resumen debe contener la descripción de su estudio y debe estructurarse en diferentes secciones, tales como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Agradecimientos (si aplica) y Referencias.  Puede ser escrito en inglés o español, con un máximo de cuatro páginas. La plantilla para los resúmenes está disponible en http://iccna.itmexicali.edu.mx/es/authors. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.</source>
+				<target>The summary should contain the description of your study and should be structured in different sections such as: Abstract, Introduction, Methodology, Results, Conclusions, Acknowledgements (if applicable) and References. It can be written in English or Spanish, with a maximum of six pages. The template for the document describing your poster is available at http://iccna.itmexicali.edu.mx/es/authors and the same template will be used as for papers. The proposals must be submit to poster_iccna@itmexicali.edu.mx in pdf format.</target>
 			</trans-unit>
 			<trans-unit id="81">
-				<source>Todos los carteles aceptados se publicarán en  memoria digital con ISBN.</source>
-				<target>All accepted posters will be published in the digital memory with ISBN.</target>
+				<source>Todos los resúmenes de los carteles aceptados se publicarán en  memoria digital con ISBN.</source>
+				<target>All summaries of the accepted posters will be published in the digital memory with ISBN.</target>
 			</trans-unit>
 			<trans-unit id="82">
 				<source>Las propuestas aceptadas deben presentarse en un cartel de 90 x 120 cm en formato vertical, el texto debe ser legible a 2,5 metros de distancia. Las imágenes y tablas tendrán una medida mínima de 20 x 20 cm, se incluirá una breve explicación del contenido y la fuente de la información en la parte inferior de cada imagen/tabla.</source>
@@ -513,6 +513,10 @@
 			<trans-unit id="129">
 				<source>Alan Díaz-Montiel (CONNECT Center - TCD, Irlanda)</source>
 				<target>Alan Díaz-Montiel (CONNECT Center - TCD, Ireland)</target>
+			</trans-unit>
+			<trans-unit id="130">
+				<source>La selección de los carteles se hará con base en el resumen enviado por los autores, que serán avaluados considerando sus méritos técnicos y grado de innovación, así como por su potencial para estimular discusiones interesantes y el intercambio de ideas.</source>
+				<target>The selection of the posters will be based on the author's submission, submissions will be evaluated according to the degree of innovation and technical merits, as well as its potential to stimulate interesting discussions during the exchange of ideas.</target>
 			</trans-unit>
 		</body>
 	</file>
