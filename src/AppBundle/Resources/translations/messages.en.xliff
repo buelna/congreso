@@ -319,7 +319,7 @@
 				<target>The poster proposal should be related, but not limited to, the following areas:</target>
 			</trans-unit>
 			<trans-unit id="80">
-				<source>El resumen debe contener la descripción de su estudio y debe estructurarse en diferentes secciones, tales como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Agradecimientos (si aplica) y Referencias.  Puede ser escrito en inglés o español, con un máximo de cuatro páginas. La plantilla para los resúmenes está disponible en http://iccna.itmexicali.edu.mx/es/authors. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.</source>
+				<source>El resumen debe contener la descripción de su estudio y debe estructurarse en diferentes secciones, tales como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Referencias y Agradecimientos (si aplica).  Puede ser escrito en inglés o español, con un máximo de seis páginas. La plantilla para los resúmenes está disponible en http://iccna.itmexicali.edu.mx/es/authors. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.</source>
 				<target>The summary should contain the description of your study and should be structured in different sections such as: Abstract, Introduction, Methodology, Results, Conclusions, Acknowledgements (if applicable) and References. It can be written in English or Spanish, with a maximum of six pages. The template for the document describing your poster is available at http://iccna.itmexicali.edu.mx/es/authors and the same template will be used as for papers. The proposals must be submit to poster_iccna@itmexicali.edu.mx in pdf format.</target>
 			</trans-unit>
 			<trans-unit id="81">
