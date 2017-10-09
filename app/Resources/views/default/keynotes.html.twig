@@ -1,0 +1,64 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+<div class="row">
+    <div class="col-md-4">
+        <img src="{{asset('bundles/app/images/carlos_calafate.jpg')}}" alt="" class="img-rounded img-responsive" width="200px" height="200px"/>
+        <h4>Dr. Carlos Tavares Calafate</4>
+    </div >
+    <div class="col-md-8">
+        <small>{% trans %}Carlos Tavares Calafate es profesor asociado al Departamento de Ingeniería Informática en la Universidad Politécnica de Valencia (UPV), España. Se graduó con honores en Ingeniería Eléctrica e Informática en la Universidad de Oporto (Portugal) en 2001. Recibió su grado de Doctor en Informática en la Universidad Politécnica de Valencia en 2006, donde ha laborado desde el año 2002. Sus áreas de interés incluyen redes vehiculares y ad-hoc, vehículos aéreos no tripulados, ciudades inteligentes e internet de las cosas, calidad del servicio, protocolos de red, transmisión de video (Streaming) y seguridad de redes.{% endtrans %}</small>
+    </div>
+</div >
+<div class="row">
+<small>
+{% trans %}Hasta la fecha ha publicado más de 300 artículos, muchos de ellos en revistas incluyendo IEEE Transactions on Networking, Elsevier Ad hoc Networks e IEEE Communications Magazine. Ha participado en el comité de más de 150 conferencias internacionales. Es miembro fundador del Grupo de Interés Especial (SIG) IEEE en Big Data con Inteligencia Computacional. Actualmente se encuentra colaborando con investigadores en Francia, Reino Unido, Suecia, Italia, México, Japón y Portugal.{% endtrans %}
+</small>
+</div>
+<div class="row">
+<h4>{% trans %}Titulo: Multirrotores: Principios de Operación y Aplicaciones{% endtrans %}</h4>
+<br>
+<small>
+{% trans %}Los Vehículos Aéreos no Tripulados (UAVs, Unmanned Aerial Vehicles), coloquialmente conocidos como drones, son dispositivos voladores capaces de realizar vuelos programados o ser controlados remotamente. Durante los últimos años han ganado relevancia internacional, siendo capaces de desempeñar un gran rango de tareas. Por ejemplo, se pueden utilizar para misiones de supervisión de sembradíos, entrega de paquetes en ubicaciones remotas, o contribuir a la creación de redes con tolerancia a retrasos en ciudades inteligentes. Además, al adoptar los algoritmos adecuados, es posible controlar el vuelo de un grupo de drones actuando como enjambre, o crear una infraestructura de red aérea de forma dinámica y bajo demanda, entre muchas otras posibilidades. Esta charla primero introduce los tipos principales de multirrotores, sus componentes y modos de operación, seguido de una visión general sobre las primeras aplicaciones estos nuevos dispositivos voladores son capaces de ofrecer.{% endtrans %}
+</small>
+</div>
+<hr>
+<div class="row">
+    <div class="col-md-4">
+        <img src="{{asset('bundles/app/images/Jose_Macias.jpg')}}" alt="" class="img-rounded img-responsive" width="200px" height="200px"/>
+        <h4>Dr. José Antonio García Macías</4>
+    </div>
+    <div class="col-md-8">
+        <small>{% trans %}Obtuvo el grado de Doctor con especialidad en Cómputo y Comunicaciones, por parte del Institut National Polytechnique de Grenoble (INPG), Francia. Tiene vasta experiencia trabajando como consultor para organizaciones gubernamentales, educativas y del sector privado. Es autor de varias publicaciones arbitradas. Ha dirigido más de 30 tesis de posgrado y ha sido coordinador de proyectos nacionales e internacionales. Actualmente es investigador titular del Departamento de Ciencias de la Computación del CICESE y miembro del Sistema Nacional de Investigadores (SNI) nivel 1.{% endtrans %}</small>
+    </div>
+</div>
+<div class="row">
+    <small>
+    {% trans %}También forma parte del Comité Técnico-Académico de la Red Temática Nacional en Redes y Sistemas de Comunicaciones del CONACyT y es miembro regular de la Academia Mexicana de Computación (AMEXCOMP). Sus áreas de interés son el cómputo ubicuo, los protocolos y sistemas de Internet de nueva generación, así como el uso de la tecnología para tratar de entender fenómenos urbanos.{% endtrans %}
+    </small>
+</div>
+<div class="row">
+<h4>{% trans %}Titulo: Ciudades Inteligentes: ¿también para nosotros?{% endtrans %}</h4>
+<br>
+<small>
+{% trans %}En esta charla se abordará primeramente el tema de las ciudades inteligentes, presentando diferentes visiones que se tienen al respecto. Se cuestionará luego si las iniciativas comúnmente propuestas son apropiadas para todo tipo de contextos, en particular para regiones en vías de desarrollo. Por último, se presentará el concepto de inteligencia vecinal, en el cual hemos estado trabajando y aplicando desde hace algunos años.{% endtrans %}
+</small>
+</div>
+<hr>
+{% endblock %}
+{% block stylesheets %} {% endblock %}
+{% block footer %}
+    {% set locale = app.request.locale %}
+    {% if locale == 'es' %}
+    <a href="{{ path('keynotes', { '_locale': 'en' }) }}"><img src="{{ asset('bundles/app/images/us.png') }}" height="32" width="32" >  </a>
+    {% elseif locale == 'en' %}
+    <a href="{{ path('keynotes', { '_locale': 'es' }) }}"><img src="{{ asset('bundles/app/images/es.png') }}" height="32" width="32" >  </a>
+    {% endif %}
+{% endblock %}
+{% block corner %}
+    {% set locale = app.request.locale %}
+    {% if locale == 'es' %}
+    <a href="{{ path('keynotes', { '_locale': 'en' }) }}"><img src="{{ asset('bundles/app/images/us.png') }}" height="32" width="32" >  </a>
+    {% elseif locale == 'en' %}
+    <a href="{{ path('keynotes', { '_locale': 'es' }) }}"><img src="{{ asset('bundles/app/images/es.png') }}" height="32" width="32" >  </a>
+    {% endif %}
+{% endblock %}

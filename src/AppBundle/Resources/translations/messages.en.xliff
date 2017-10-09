@@ -27,8 +27,8 @@
 				<target>Committee</target>
 			</trans-unit>
 			<trans-unit id="7">
-				<source>Instrucciones para Autores</source>
-				<target>Instructions for Authors</target>
+				<source>Autores</source>
+				<target>Authors</target>
 			</trans-unit>
 			<trans-unit id="8">
 				<source>Fechas Importantes</source>
@@ -517,6 +517,46 @@
 			<trans-unit id="130">
 				<source>La selección de los carteles se hará con base en el resumen enviado por los autores, que serán avaluados considerando sus méritos técnicos y grado de innovación, así como por su potencial para estimular discusiones interesantes y el intercambio de ideas.</source>
 				<target>The selection of the posters will be based on the author's submission, submissions will be evaluated according to the degree of innovation and technical merits, as well as its potential to stimulate interesting discussions during the exchange of ideas.</target>
+			</trans-unit>
+			<trans-unit id="131">
+				<source>Conferencias Magistrales</source>
+				<target>Keynote Speakers</target>
+			</trans-unit>
+			<trans-unit id="132">
+				<source>Carlos Tavares Calafate es profesor asociado al Departamento de Ingeniería Informática en la Universidad Politécnica de Valencia (UPV), España. Se graduó con honores en Ingeniería Eléctrica e Informática en la Universidad de Oporto (Portugal) en 2001. Recibió su grado de Doctor en Informática en la Universidad Politécnica de Valencia en 2006, donde ha laborado desde el año 2002. Sus áreas de interés incluyen redes vehiculares y ad-hoc, vehículos aéreos no tripulados, ciudades inteligentes e internet de las cosas, calidad del servicio, protocolos de red, transmisión de video (Streaming) y seguridad de redes.</source>
+				<target>Carlos Tavares Calafate is an associate professor in the Department of Computer Engineering at the Technical University of Valencia (UPV) in Spain. He graduated with honours in Electrical and Computer Engineering at the University of Oporto (Portugal) in 2001. He received his Ph.D. degree in Informatics from the Technical University of Valencia in 2006, where he has worked since 2002. His research interests include ad-hoc and vehicular networks, UAVs, Smart Cities and IoT, QoS, network protocols, video streaming, and network security.</target>
+			</trans-unit>
+			<trans-unit id="133">
+				<source>Hasta la fecha ha publicado más de 300 artículos, muchos de ellos en revistas incluyendo IEEE Transactions on Networking, Elsevier Ad hoc Networks e IEEE Communications Magazine. Ha participado en el comité de más de 150 conferencias internacionales. Es miembro fundador del Grupo de Interés Especial (SIG) IEEE en Big Data con Inteligencia Computacional. Actualmente se encuentra colaborando con investigadores en Francia, Reino Unido, Suecia, Italia, México, Japón y Portugal.</source>
+				<target>To date he has published more than 300 articles, several of them in journals including IEEE Transactions on Vehicular Technology, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, Elsevier Ad hoc Networks and IEEE Communications Magazine. He has participated in the TPC of more than 150 international conferences. He is a founding member of the IEEE SIG on Big Data with Computational Intelligence. Currently, he is actively collaborating with researchers in France, UK, Sweden, Italy, Mexico, Japan and Portugal.</target>
+			</trans-unit>
+			<trans-unit id="134">
+				<source>Titulo: Multirrotores: Principios de Operación y Aplicaciones</source>
+				<target>Title: Multicopters: operation principles and applications</target>
+			</trans-unit>
+			<trans-unit id="135">
+				<source>Los Vehículos Aéreos no Tripulados (UAVs, Unmanned Aerial Vehicles), coloquialmente conocidos como drones, son dispositivos voladores capaces de realizar vuelos programados o ser controlados remotamente. Durante los últimos años han ganado relevancia internacional, siendo capaces de desempeñar un gran rango de tareas. Por ejemplo, se pueden utilizar para misiones de supervisión de sembradíos, entrega de paquetes en ubicaciones remotas, o contribuir a la creación de redes con tolerancia a retrasos en ciudades inteligentes. Además, al adoptar los algoritmos adecuados, es posible controlar el vuelo de un grupo de drones actuando como enjambre, o crear una infraestructura de red aérea de forma dinámica y bajo demanda, entre muchas otras posibilidades. Esta charla primero introduce los tipos principales de multirrotores, sus componentes y modos de operación, seguido de una visión general sobre las primeras aplicaciones estos nuevos dispositivos voladores son capaces de ofrecer.</source>
+				<target>Unmanned Aerial Vehicles (UAVs), colloquially known as drones, are flying devices able to perform programmed flights or being remotely controlled. During the past few years they have gained international relevance, being capable of performing a wide range of tasks. For instance, planned missions can be defined to supervise farmlands, deliver packages to remote locations, or contributing to create delay-tolerant networks in the scope of Smart Cities. Moreover, by adopting adequate algorithms, it is possible to control the flight of a group of UAVs acting as a swarm, or dynamically create an aerial network infrastructure in a dynamic, on-demand fashion, among many other possibilities. This talk first introduces the main types of multicopters, their components, and their mode of operation, followed by an overview of the main applications these novel flying devices are able to offer.</target>
+			</trans-unit>
+			<trans-unit id="136">
+				<source>Obtuvo el grado de Doctor con especialidad en Cómputo y Comunicaciones, por parte del Institut National Polytechnique de Grenoble (INPG), Francia. Tiene vasta experiencia trabajando como consultor para organizaciones gubernamentales, educativas y del sector privado. Es autor de varias publicaciones arbitradas. Ha dirigido más de 30 tesis de posgrado y ha sido coordinador de proyectos nacionales e internacionales. Actualmente es investigador titular del Departamento de Ciencias de la Computación del CICESE y miembro del Sistema Nacional de Investigadores (SNI) nivel 1.</source>
+				<target>Dr. José Antonio García Macías obtained his Ph.D with specialty in Computer Science and Communications from the Institut National Polytechnique de Grenoble (INPG), France. He has vast experience working as a consultant for governmental, educative, and private sector organizations. He is author of several refereed publications, has directed more than 30 postgraduate theses and has been the coordinator of national and international projects. He is currently a researcher in the Department of Computer Science at CISESE (Ensenada, Mexico), and member of the Researchers National System (SNI) level 1.</target>
+			</trans-unit>
+			<trans-unit id="137">
+				<source>También forma parte del Comité Técnico-Académico de la Red Temática Nacional en Redes y Sistemas de Comunicaciones del CONACyT y es miembro regular de la Academia Mexicana de Computación (AMEXCOMP). Sus áreas de interés son el cómputo ubicuo, los protocolos y sistemas de Internet de nueva generación, así como el uso de la tecnología para tratar de entender fenómenos urbanos.</source>
+				<target>He is also a part of the Technical-Academic Committee in the National Thematic Network in Networks and Communications Systems of CONACyT and is a regular member of the Mexican Academy of Computer Science (AMEXCOMP). His areas of interest are: Ubiquitous Computing, new generation protocols and internet systems, as well as the use of technology for understanding urban phenomena.</target>
+			</trans-unit>
+			<trans-unit id="138">
+				<source>Titulo: Ciudades Inteligentes: ¿también para nosotros?</source>
+				<target>Title: Smart Cities, are we ready?</target>
+			</trans-unit>
+			<trans-unit id="139">
+				<source>En esta charla se abordará primeramente el tema de las ciudades inteligentes, presentando diferentes visiones que se tienen al respecto. Se cuestionará luego si las iniciativas comúnmente propuestas son apropiadas para todo tipo de contextos, en particular para regiones en vías de desarrollo. Por último, se presentará el concepto de inteligencia vecinal, en el cual hemos estado trabajando y aplicando desde hace algunos años.</source>
+				<target>In this talk the subject of Smart Cities will be addressed, introducing different views on this interesting topic. Also, the question of whether the initiatives commonly proposed are appropriate for all kinds of contexts will be discussed, in particular In the context of developing regions. Additionally, the concept of neighborhood intelligence will be introduced, a topic that our research group has been working on for the past years.</target>
+			</trans-unit>
+			<trans-unit id="140">
+				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
+				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
 		</body>
 	</file>
