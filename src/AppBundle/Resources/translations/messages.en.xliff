@@ -483,20 +483,20 @@
 				<target>Author registration for poster or graduate consortium: 100 USD</target>
 			</trans-unit>
 			<trans-unit id="122">
-				<source>Asistente con pago antes o el 31 de Octubre:  600 pesos</source>
-				<target>Attendee registration on/by October 31:  35 USD</target>
+				<source>Asistente con pago antes o el 6 de Noviembre:  600 pesos</source>
+				<target>Attendee registration on/by November 6:  35 USD</target>
 			</trans-unit>
 			<trans-unit id="123">
-				<source>Asistentes con pago después del 31 de Octubre:  800 pesos</source>
-				<target>Attendee registration after October 31:  45 USD</target>
+				<source>Asistente con pago después del 6 de Noviembre:  800 pesos</source>
+				<target>Attendee registration after November 6:  45 USD</target>
 			</trans-unit>
 			<trans-unit id="124">
-				<source>Estudiante con pago antes o el 31 de Octubre:  300 pesos</source>
-				<target>Student registration on/by October 31: 17.50 USD</target>
+				<source>Estudiante con pago antes o el 6 de Noviembre:  300 pesos</source>
+				<target>Student registration on/by November 6: 17.50 USD</target>
 			</trans-unit>
 			<trans-unit id="125">
-				<source>Estudiante con pago después del 31 de Octubre:  450 pesos</source>
-				<target>Student registration after October 31:  25 USD</target>
+				<source>Estudiante con pago después del 6 de Noviembre:  450 pesos</source>
+				<target>Student registration after November 6:  25 USD</target>
 			</trans-unit>
 			<trans-unit id="126">
 				<source>Fecha límite de recepción de resúmenes</source>
@@ -555,6 +555,66 @@
 				<target>In this talk the subject of Smart Cities will be addressed, introducing different views on this interesting topic. Also, the question of whether the initiatives commonly proposed are appropriate for all kinds of contexts will be discussed, in particular In the context of developing regions. Additionally, the concept of neighborhood intelligence will be introduced, a topic that our research group has been working on for the past years.</target>
 			</trans-unit>
 			<trans-unit id="140">
+				<source>Obtuvo el grado de Doctor en Ciencias en Ciencias de la Computación por parte del Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE) en el año 2007. Actualmente, se desempeña como profesor investigador en el Centro de Investigación y Desarrollo de Tecnología Digital del Instituto Politécnico Nacional (CITEDI-IPN) desde el año 2009. Es autor de numerosos trabajos científicos publicados en revistas, capítulos de libros, y en memorias de congresos internacionales y nacionales. Ha fungido como responsable técnico de varios proyectos de investigación financiados, tiene experiencia en la dirección de tesis de doctorado y maestría, y cuenta con obras registradas bajo derechos de autor y solicitudes de registro de patente.</source>
+				<target>Obtained a PhD in Computer Science from Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE) in 2007. Currently, he is a professor at Centro de Investigación y Desarrollo de Tecnología Digital, Instituto Politécnico Nacional (CITEDI-IPN) since 2009. He is the author of numerous scientific papers published in journals, book chapters, and  conference proceedings. Has been responsible for several funded research projects, has experience in the management of doctoral theses and master's degrees, and has works registered under copyright as well as patent applications.</target>
+			</trans-unit>
+			<trans-unit id="141">
+				<source>Sus intereses de investigación incluyen diseño de algoritmos localmente adaptativos para procesamiento de señales e imágenes, reconocimiento confiable de objetos 2D y 3D en imágenes, diseño de algoritmos para el rastreo de objetos en tiempo real, métodos formales para evaluación de desempeño de algoritmos adaptativos en sistemas digitales de alto desempeño, y desarrollo de sistemas inmersos para procesamiento de imágenes. Es miembro del Sistema Nacional de Investigadores (SNI) Nivel I. Es editor asociado de la revista científica "Optical Engineering" de la Sociedad Internacional para Óptica y Fotónica (SPIE). Forma parte del comité científico de la conferencia "Optics and Photonics for Information Processing" del congreso internacional SPIE Optics + Photonics. Es miembro de la Red de Expertos en Robótica y Mecatronica (RERyM) del IPN.</source>
+				<target>His research interests include the design of locally adaptive algorithms for signal and image processing, reliable recognition of 2D and 3D objects in images, design of algorithms for real-time object tracking, formal methods for performance evaluation of adaptive algorithms in high-performance digital systems, and development of embedded systems for image processing. He is a member of CONACYT’s Sistema Nacional de Investigadores (SNI) Level I. He is an associate editor of the scientific journal "Optical Engineering" of the International Society for Optics and Photonics (SPIE). He is co-chair of the conference "Optics and Photonics for Information Processing" of the international congress SPIE Optics + Photonics. He is a member of IPN's Network of Experts on Robotics and Mechatronics (RERyM).</target>
+			</trans-unit>
+			<trans-unit id="142">
+				<source>Titulo: Mejora de visibilidad en presencia de dispersión óptica</source>
+				<target>Title: Improvement of visibility in the presence of optical dispersion</target>
+			</trans-unit>
+			<trans-unit id="143">
+				<source>En aplicaciones de visión por computadora es de gran relevancia obtener una visión clara de la escena observada principalmente, en aplicaciones al aire libre. Es común que las escenas en la intemperie resulten degradadas por la acción de un medio dispersivo  en la atmósfera. La presencia de neblina o smog son ejemplos de fenómenos que reducen considerablemente la visibilidad en una escena debido a que producen dispersión óptica. En esta platica, se presenta el diseño de un sistema computacional para remover los efectos de dispersión óptica en una secuencia de imágenes monoculares. El sistema, estima la función de transmisión del medio a partir de una imagen degradada utilizando vecindarios adaptativos locales y el calculo de estadísticas de orden prioritario. Posteriormente, una imagen con visibilidad mejorada es obtenida utilizando la función de transmisión estimada y un modelo físico de restauración basado en la formación de la imagen. El desempeño del sistema propuesto es evaluado y comparado con aquel de métodos similares del estado del arte en términos de métricas objetivas. Debido a su eficiencia computacional el sistema propuesto es capaz de operar a alta velocidad y es viable para utilizarse en aplicaciones de tiempo real.</source>
+				<target>In computer vision applications it is important to obtain a clear view of the observed scene mainly in outdoor applications. It is common that outdoor scenes result degraded by the effects of a dispersive medium in the atmosphere. The presence of fog or smog are examples of phenomena that considerably reduce the visibility in a scene because they produce optical dispersion. In this talk, we present the design of a computer system to remove the effects of optical dispersion in a sequence of monocular images. The system estimates the transmission function of the medium from a degraded image using locally adaptive neighborhoods and the calculation of rank-order statistics. Next, an image with improved visibility is obtained using the estimated transmission function and a physical restoration model based on image formation. The performance of the proposed system is evaluated and compared with that of similar state-of-the-art methods in terms of objective metrics. Due to its computational efficiency the proposed system is capable to operate at high speed and it is suitable for real time applications.</target>
+			</trans-unit>
+			<trans-unit id="144">
+				<source>Asistencia a la cena de gala:  600 pesos (fecha limite de pago 6 de noviembre)</source>
+				<target>Attendance at the gala dinner:  35 USD (payment deadline November 6)</target>
+			</trans-unit>
+			<trans-unit id="145">
+				<source>Nota: Estudiantes deberan presentar credencial vigente al recoger su carnet</source>
+				<target>Note: Students must present valid credential when collecting their carnet</target>
+			</trans-unit>
+			<trans-unit id="146">
+				<source>Estudiante</source>
+				<target>Student</target>
+			</trans-unit>
+			<trans-unit id="147">
+				<source>Asistente</source>
+				<target>Attendee</target>
+			</trans-unit>
+			<trans-unit id="148">
+				<source>Cena de gala</source>
+				<target>Gala dinner</target>
+			</trans-unit>
+			<trans-unit id="149">
+				<source>Nombre</source>
+				<target>Name</target>
+			</trans-unit>
+			<trans-unit id="150">
+				<source>Apellidos</source>
+				<target>Lastname</target>
+			</trans-unit>
+			<trans-unit id="151">
+				<source>Institución</source>
+				<target>Institution</target>
+			</trans-unit>
+			<trans-unit id="152">
+				<source>NO requiere factura</source>
+				<target>Bill not required</target>
+			</trans-unit>
+			<trans-unit id="153">
+				<source>SI requiere factura</source>
+				<target>Bill required</target>
+			</trans-unit>
+			<trans-unit id="154">
+				<source>Generar línea de pago</source>
+				<target>Generate payline</target>
+			</trans-unit>
+			<trans-unit id="155">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
