@@ -427,12 +427,12 @@
 				<target>http://www.araizahoteles.com/araiza/index.php/en/</target>
 			</trans-unit>
 			<trans-unit id="108">
-				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Los precios no incluyen IVA (16&#37;) ni Impuesto sobre Hospedaje (3&#37;).</source>
-				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax (16&#37;) and Lodging Tax (3&#37;).</target>
+				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Los precios no incluyen IVA</source>
+				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax</target>
 			</trans-unit>
 			<trans-unit id="109">
-				<source>Habitación estándar 900.00 pesos</source>
-				<target>Standard room 900.00 Mexican pesos</target>
+				<source>Habitación estándar 990.00 pesos</source>
+				<target>Standard room 990.00 Mexican pesos</target>
 			</trans-unit>
 			<trans-unit id="110">
 				<source>También se tiene disponible la opción de hospedaje en el Hotel Calafia Mexicali, que está muy cerca del hotel sede.</source>
@@ -615,6 +615,10 @@
 				<target>Generate payline</target>
 			</trans-unit>
 			<trans-unit id="155">
+				<source>ni Impuesto sobre Hospedaje</source>
+				<target>and Lodging Tax</target>
+			</trans-unit>
+			<trans-unit id="156">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
