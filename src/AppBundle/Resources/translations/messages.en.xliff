@@ -619,6 +619,66 @@
 				<target>and Lodging Tax</target>
 			</trans-unit>
 			<trans-unit id="156">
+				<source>Martes 7 de Noviembre</source>
+				<target>November 7th (Tuesday)</target>
+			</trans-unit>
+			<trans-unit id="157">
+				<source>Centro de Convenciones</source>
+				<target>Convention Center</target>
+			</trans-unit>
+			<trans-unit id="158">
+				<source>Ceremonia de Inauguración</source>
+				<target>Opening Ceremony</target>
+			</trans-unit>
+			<trans-unit id="159">
+				<source>Conferencia Magistral</source>
+				<target>Keynote Speech</target>
+			</trans-unit>
+			<trans-unit id="160">
+				<source>Receso para café</source>
+				<target>Coffee break</target>
+			</trans-unit>
+			<trans-unit id="161">
+				<source>Consorcio de Posgrado</source>
+				<target>Graduate consortium</target>
+			</trans-unit>
+			<trans-unit id="162">
+				<source>Comida</source>
+				<target>Lunch</target>
+			</trans-unit>
+			<trans-unit id="163">
+				<source>Salón Guaycura</source>
+				<target>Guaycura Room</target>
+			</trans-unit>
+			<trans-unit id="164">
+				<source>Presentación de Carteles</source>
+				<target>Poster session</target>
+			</trans-unit>
+			<trans-unit id="165">
+				<source>Miercoles 8 de Noviembre</source>
+				<target>November 8th (Wednesday)</target>
+			</trans-unit>
+			<trans-unit id="166">
+				<source>Presentaciones de Ponencias</source>
+				<target>Technical Session</target>
+			</trans-unit>
+			<trans-unit id="167">
+				<source>Salón Mexicali</source>
+				<target>Mexicali Room</target>
+			</trans-unit>
+			<trans-unit id="168">
+				<source>Cena de Gala</source>
+				<target>Gala Dinner</target>
+			</trans-unit>
+			<trans-unit id="169">
+				<source>Jueves 9 de Noviembre</source>
+				<target>November 9th (Thursday)</target>
+			</trans-unit>
+			<trans-unit id="170">
+				<source>Programa General</source>
+				<target>Program at Glance</target>
+			</trans-unit>
+			<trans-unit id="171">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
