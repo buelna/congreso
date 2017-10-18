@@ -587,7 +587,7 @@
 				<target>Attendee</target>
 			</trans-unit>
 			<trans-unit id="148">
-				<source>Cena de gala</source>
+				<source>Cena de gala (solo cena)</source>
 				<target>Gala dinner</target>
 			</trans-unit>
 			<trans-unit id="149">
