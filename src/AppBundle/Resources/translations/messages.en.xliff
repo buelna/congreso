@@ -695,6 +695,10 @@
 				<target>Dr. Yesica Imelda Saavedra Benítez</target>
 			</trans-unit>
 			<trans-unit id="175">
+				<source>Presentación Convenio Instituto Tecnológico de Mexicali – Universidad Politécnica de Valencia</source>
+				<target>Covenant between Technological Institute of Mexicali and Polytechnic University of Valencia</target>
+			</trans-unit>
+			<trans-unit id="176">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
