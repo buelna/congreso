@@ -696,9 +696,37 @@
 			</trans-unit>
 			<trans-unit id="175">
 				<source>Presentación Convenio Instituto Tecnológico de Mexicali – Universidad Politécnica de Valencia</source>
-				<target>Covenant between Technological Institute of Mexicali and Polytechnic University of Valencia</target>
+				<target>Covenant between Technological Institute of Mexicali and Technical University of Valencia</target>
 			</trans-unit>
 			<trans-unit id="176">
+				<source>Multirrotores: Principios de Operación y Aplicaciones</source>
+				<target>Multicopters: operation principles and applications</target>
+			</trans-unit>
+			<trans-unit id="177">
+				<source>Impartida por</source>
+				<target>Keynote Speaker</target>
+			</trans-unit>
+			<trans-unit id="178">
+				<source>Universidad Politécnica de Valencia, España</source>
+				<target>Technical University of Valencia, Spain</target>
+			</trans-unit>
+			<trans-unit id="179">
+				<source>Mejora de visibilidad en presencia de dispersión óptica</source>
+				<target>Improvement of visibility in the presence of optical dispersion</target>
+			</trans-unit>
+			<trans-unit id="180">
+				<source>¿Por qué realizar estudios de Posgrado?</source>
+				<target>Reasons to study a Postgraduate Program</target>
+			</trans-unit>
+			<trans-unit id="181">
+				<source>Antes y después del IoT (Internet de las Cosas)</source>
+				<target>IoT (Internet of Things) Before and after</target>
+			</trans-unit>
+			<trans-unit id="182">
+				<source>Ciudades Inteligentes: ¿también para nosotros?</source>
+				<target>Smart Cities, are we ready?</target>
+			</trans-unit>
+			<trans-unit id="183">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
