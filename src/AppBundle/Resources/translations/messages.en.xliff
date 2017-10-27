@@ -751,6 +751,10 @@
 				<target>Title: IoT Before and After</target>
 			</trans-unit>
 			<trans-unit id="189">
+				<source>Directora de Posgrado, Investigación e Innovación del Tecnológico Nacional de México</source>
+				<target>Director of Postgraduate, Research and Innovation of the Tecnológico Nacional de México</target>
+			</trans-unit>
+			<trans-unit id="190">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
