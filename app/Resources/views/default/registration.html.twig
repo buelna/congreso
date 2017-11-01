@@ -39,7 +39,9 @@ Nota: Estudiantes deberan presentar credencial vigente al recoger su carnet
 <hr>
 <form class="form-signin" action="{{asset('bundles/app/santander/new_lineapago.php')}}" method="post" target="_blank">
     <h2 class="form-signin-heading">Registrar<br/></h2>
-    
+    <strong>
+    {% trans %}Nota: Los datos ingresados durante el registro serán utilizados para la elaboración de gafetes y constancias.{% endtrans %}
+    </strong>
     <label for="name" class="sr-only">Nombre:</label>
     <input type="text" id="name" name="name" class="form-control" placeholder="{% trans %}Nombre{% endtrans %}" required>
     
