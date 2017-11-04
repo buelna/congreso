@@ -755,8 +755,8 @@
 				<target>Director of Postgraduate, Research and Innovation of the Tecnológico Nacional de México</target>
 			</trans-unit>
 			<trans-unit id="190">
-				<source>Nota: Los datos ingresados durante el registro serán utilizados para la elaboración de gafetes y constancias.</source>
-				<target>Note: The data entered during the registration will be used for the elaboration of nametags and certificates.</target>
+				<source>Nota: Los datos ingresados durante el registro serán utilizados para la elaboración de gafetes y constancias. Favor de presentarse al evento con el recibo de pago para la entrega de gafete.</source>
+				<target>Note: The data entered during the registration will be used for the elaboration of nametags and certificates. Please remember to bring your receipt for the nametag delivery.</target>
 			</trans-unit>
 			<trans-unit id="191">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
