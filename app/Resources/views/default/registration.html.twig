@@ -43,25 +43,25 @@ Nota: Estudiantes deberan presentar credencial vigente al recoger su carnet
     {% trans %}Nota: Los datos ingresados durante el registro serán utilizados para la elaboración de gafetes y constancias. Favor de presentarse al evento con el recibo de pago para la entrega de gafete.{% endtrans %}
     </strong>
     <label for="name" class="sr-only">Nombre:</label>
-    <input type="text" id="name" name="name" class="form-control" placeholder="{% trans %}Nombre{% endtrans %}" required>
+    <input type="text" id="name" name="name" class="form-control" placeholder="{% trans %}Nombre{% endtrans %}" required disabled>
     
     <label for="lname" class="sr-only">Apellidos:</label>
-    <input type="text" id="lname" name="lname" class="form-control" placeholder="{% trans %}Apellidos{% endtrans %}" required >
+    <input type="text" id="lname" name="lname" class="form-control" placeholder="{% trans %}Apellidos{% endtrans %}" required disabled>
     
     <label for="insti" class="sr-only">Institución:</label>
-    <input type="text" id="insti" name="insti" class="form-control" placeholder="{% trans %}Institución{% endtrans %}" required >
+    <input type="text" id="insti" name="insti" class="form-control" placeholder="{% trans %}Institución{% endtrans %}" required disabled>
     <label for="concepto" class="sr-only">Concepto:</label>
-    <select id="concepto" name="concepto" class="form-control" required >
+    <select id="concepto" name="concepto" class="form-control" required disabled>
       <option value="1">{% trans %}Estudiante{% endtrans %}</option>
       <option value="2">{% trans %}Asistente{% endtrans %}</option>
       <option value="3">{% trans %}Cena de gala (solo cena){% endtrans %}</option>
     </select>
 
-    <input type="radio"  value="1" id="factura01" name="factura" />
+    <input type="radio"  value="1" id="factura01" name="factura" disabled/>
     <label for="factura01"><span ></span >{% trans %}SI requiere factura{% endtrans %}</label>
     <input type="radio" value="0" id="factura02" name="factura" checked />
     <label for="factura02"><span></span>{% trans %}NO requiere factura{% endtrans %}</label>
-    <input class="btn btn-lg btn-primary btn-block" type="submit" name="enviar" value="{% trans %}Generar línea de pago{% endtrans %}" />
+    <input class="btn btn-lg btn-primary btn-block" type="submit" name="enviar" value="{% trans %}Generar línea de pago{% endtrans %}" disabled />
 </form>
 
 {% endblock %}
