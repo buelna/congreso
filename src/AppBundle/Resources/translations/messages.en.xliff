@@ -759,6 +759,10 @@
 				<target>Note: The data entered during the registration will be used for the elaboration of nametags and certificates. Please remember to bring your receipt for the nametag delivery.</target>
 			</trans-unit>
 			<trans-unit id="191">
+				<source>Clic aquí para descargar las Memorias de la ICCNA</source>
+				<target>Click here to download the Memories of the ICCNA</target>
+			</trans-unit>
+			<trans-unit id="192">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
