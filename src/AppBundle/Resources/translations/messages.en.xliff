@@ -43,8 +43,8 @@
 				<target>The International Conference on Computer Networks Applications (ICCNA) aims to bring together researches from Mexico and all over the world, to share their results and experiences related to the development of applications that are based on the use of a computer network.</target>
 			</trans-unit>
 			<trans-unit id="11">
-				<source>La ICCNA 2017 presentará los más recientes desarrollos y soluciones técnicas a problemas relacionados con las aplicaciones de las redes computacionales, así como aplicaciones y servicios novedosos. La conferencia incluye ponencias arbitradas para presentarse en sesiones técnicas, presentación de carteles, coloquio doctoral y de maestría, así como sesión de demostraciones. Por tal motivo, se hace una atenta invitación para que investigadores de área de las redes de computadoras, redes inalámbricas de sensores, la Internet de las cosas, ciudades inteligentes, sistemas ciber-físicos, telemedicina, eSalud, vida cotidiana asistida por el entorno, manejo de grandes volúmenes de datos, computación ubicua y procesamiento de señales, entre otras, envíen sus contribuciones a la conferencia.</source>
-				<target>ICCNA 2017 will present the latest developments and novel technical solutions to problems related to the development of computer networks applications. The conference will include peer-reviewed technical sessions, poster presentations, doctoral and master colloquium, and a demo session.  We encourage the participation of researchers from the of computer networks, wireless sensor networks, Internet of Things, Smart Cities, Cyber-physical systems, e-Health, Ambient Assisted Living, Big Data, ubiquitous computing, and signal processing communities, among others, to submit contributions to the conference.</target>
+				<source>La ICCNA 2018 presentará los más recientes desarrollos y soluciones técnicas a problemas relacionados con las aplicaciones de las redes computacionales, así como aplicaciones y servicios novedosos. La conferencia incluye ponencias arbitradas para presentarse en sesiones técnicas, presentación de carteles, consorcio doctoral y de maestría, así como sesión de demostraciones. Por tal motivo, se hace una atenta invitación para que investigadores de área de las redes de computadoras, redes inalámbricas de sensores, la Internet de las cosas, ciudades inteligentes, sistemas ciber-físicos, telemedicina, eSalud, vida cotidiana asistida por el entorno, manejo de grandes volúmenes de datos, computación ubicua y procesamiento de señales, entre otras, envíen sus contribuciones a la conferencia.</source>
+				<target>ICCNA 2018 will present the latest developments and novel technical solutions to problems related to the development of computer networks applications. The conference will include peer-reviewed technical sessions, poster presentations, doctoral and master consortium, and a demo session.  We encourage the participation of researchers from the of computer networks, wireless sensor networks, Internet of Things, Smart Cities, Cyber-physical systems, e-Health, Ambient Assisted Living, Big Data, ubiquitous computing, and signal processing communities, among others, to submit contributions to the conference.</target>
 			</trans-unit>
 			<trans-unit id="12">
 				<source>Los artículos aceptados para ser presentados en las sesiones técnicas serán publicados en la Revista Research in Computer Science, ISSN 1870-4069, publicada por el Instituto Politécnico Nacional.</source>
@@ -211,8 +211,8 @@
 				<target>Multimedia interactive services</target>
 			</trans-unit>
 			<trans-unit id="53">
-				<source>Mayo</source>
-				<target>May</target>
+				<source>Abril</source>
+				<target>April</target>
 			</trans-unit>
 			<trans-unit id="54">
 				<source>Agosto</source>
@@ -251,16 +251,16 @@
 				<target>Conference dates</target>
 			</trans-unit>
 			<trans-unit id="63">
-				<source>, seleccionando la conferencia ICCNA 2017. Los artículos deben ser escritos en inglés o español.</source>
-				<target> Web page, selecting ICCNA 2017. All final submissions should be written in English or Spanish.</target>
+				<source>, seleccionando la conferencia ICCNA 2018. Los artículos deben ser escritos en inglés o español.</source>
+				<target> Web page, selecting ICCNA 2018. All final submissions should be written in English or Spanish.</target>
 			</trans-unit>
 			<trans-unit id="64">
 				<source>aquí</source>
 				<target>here</target>
 			</trans-unit>
 			<trans-unit id="65">
-				<source>Bienvenido a la ICCNA 2017</source>
-				<target>Welcome to the ICCNA 2017</target>
+				<source>Bienvenido a la ICCNA 2018</source>
+				<target>Welcome to the ICCNA 2018</target>
 			</trans-unit>
 			<trans-unit id="66">
 				<source>Victor Díaz-Ramírez (CITEDI-IPN, México)</source>
@@ -307,8 +307,8 @@
 				<target>Graduate Consortium</target>
 			</trans-unit>
 			<trans-unit id="77">
-				<source>El Comité Organizador de la Conferencia Internacional en Aplicaciones de las Redes de Computadoras (ICCNA 2017) hace una atenta invitación a  investigadores y estudiantes a participar en la sesión de presentación de carteles, que se llevará a cabo el 7 de noviembre en la ciudad de Mexicali, Baja California, México.</source>
-				<target>We extend an invitation to researchers and students to participate in the poster presentation during the International Conference on Computer Networks Applications (ICCNA 2017), to be held on November 7th in the city of Mexicali, Baja California Mexico.</target>
+				<source>El Comité Organizador de la Conferencia Internacional en Aplicaciones de las Redes de Computadoras (ICCNA 2018) hace una atenta invitación a  investigadores y estudiantes a participar en la sesión de presentación de carteles, que se llevará a cabo el 6 de noviembre de 2018 en la ciudad de Mexicali, Baja California, México.</source>
+				<target>We extend an invitation to researchers and students to participate in the poster presentation during the International Conference on Computer Networks Applications (ICCNA 2018), to be held on November 6th in the city of Mexicali, Baja California Mexico.</target>
 			</trans-unit>
 			<trans-unit id="78">
 				<source>Durante esta sesión, estudiantes e investigadores tendrán la oportunidad de difundir su trabajo a la comunidad científica (por ejemplo, trabajo en proceso).</source>
@@ -331,8 +331,8 @@
 				<target>Accepted proposals must be presented in a poster of 90 x 120 cm in vertical format, the text must be legible 2.5 meters away. The images and tables will have a minimum measurement of 20 x 20 cm, a brief explanation of the content and the source of the information will be included at the bottom of each image/table.</target>
 			</trans-unit>
 			<trans-unit id="83">
-				<source>El comité organizador de la International Conference on Computer Networks Applications (ICCNA 2017) convoca a estudiantes que esten realizando estudios de maestría y doctorado en el país o en el extranjero a participar en el Consorcio de Posgrado. Este evento es un foro para que estudiantes de maestría y doctorado en ciencias e ingeniería presenten avances de su trabajo y obtengan retroalimentación por parte de reconocidos investigadores y de otros participantes del evento. El Consorcio de Posgrado de ICCNA 2017 se llevará a cabo el día 7 de Noviembre de 2017.</source>
-				<target>The Graduate Student Consortium will provide a friendly, supportive, and constructive atmosphere where graduate students can present their research-in-progress for an open discussion, guided by a panel of experienced researchers and practitioners. The colloquium offers students the valuable opportunity to receive feedback and perspectives from recognized experts in the field.</target>
+				<source>El comité organizador de la International Conference on Computer Networks Applications (ICCNA 2018) convoca a estudiantes que esten realizando estudios de maestría y doctorado en el país o en el extranjero a participar en el Consorcio de Posgrado. Este evento es un foro para que estudiantes de maestría y doctorado en ciencias e ingeniería presenten avances de su trabajo y obtengan retroalimentación por parte de reconocidos investigadores y de otros participantes del evento. El Consorcio de Posgrado de ICCNA 2018 se llevará a cabo el día 6 de Noviembre de 2018, en la ciudad de Mexicali, Baja California, México.</source>
+				<target>The Graduate Student Consortium will provide a friendly, supportive, and constructive atmosphere where graduate students can present their research-in-progress for an open discussion, guided by a panel of experienced researchers and practitioners. The consortium offers students the valuable opportunity to receive feedback and perspectives from recognized experts in the field. The ICCNA 2018 Graduate Consortium will be held on November 6, 2018, in the city of Mexicali, Baja California, Mexico.</target>
 			</trans-unit>
 			<trans-unit id="84">
 				<source>Coordinadores de carteles</source>
@@ -419,8 +419,8 @@
 				<target>Phone. +52 (686) 564-1100 Ext. 753 and 762. Toll free 01-800-026-5444 (from México)</target>
 			</trans-unit>
 			<trans-unit id="106">
-				<source>Al hacer la reservación, favor de identificarse con el nombre ICCNA 2017.</source>
-				<target>Please identify yourself with ICCNA 2017.</target>
+				<source>Al hacer la reservación, favor de identificarse con el nombre ICCNA 2018.</source>
+				<target>Please identify yourself with ICCNA 2018.</target>
 			</trans-unit>
 			<trans-unit id="107">
 				<source>http://www.araizahoteles.com/araiza/index.php/es/</source>
@@ -467,8 +467,8 @@
 				<target>All Authors and Attendees must register in order to participate in the conference activities.</target>
 			</trans-unit>
 			<trans-unit id="118">
-				<source>Es importante tener en cuenta que para ser publicado en la revista Research in Computer Science (artículos) y en las memorias en extenso de la ICCNA 2017 (carteles y consorcio de Posgrado), un autor de un trabajo aceptado debe registrarse y presentarlo en la conferencia, a menos que tenga la autorización del comité organizador para que alguien que no sea autor lo presente. El pago de registro no es reembolsable y debe hacerse antes del envío de la versión final del trabajo. Para autores con mas de un trabajo aceptado, el pago de un registro es válido hasta por dos trabajos.</source>
-				<target>PLEASE NOTE that to be published in the Research in Computer Science Journal (Papers) and in the ICCNA 2017 Conference Proceedings (Posters and Graduate Consortium) an author of an accepted paper is required to register for the conference at the full rate and the work must be presented by an author of that paper at the conference unless the TPC Chair grants permission for a substitute presenter arranged in advance of the event and who is qualified both to present and answer questions. Non-refundable registration fees must be paid prior to uploading the final version of the paper. For authors with multiple accepted papers, one full registration is valid for up to 2 papers. </target>
+				<source>Es importante tener en cuenta que para ser publicado en la revista Research in Computer Science (artículos) y en las memorias en extenso de la ICCNA 2018 (carteles y consorcio de Posgrado), un autor de un trabajo aceptado debe registrarse y presentarlo en la conferencia, a menos que tenga la autorización del comité organizador para que alguien que no sea autor lo presente. El pago de registro no es reembolsable y debe hacerse antes del envío de la versión final del trabajo. Para autores con mas de un trabajo aceptado, el pago de un registro es válido hasta por dos trabajos.</source>
+				<target>PLEASE NOTE that to be published in the Research in Computer Science Journal (Papers) and in the ICCNA 2018 Conference Proceedings (Posters and Graduate Consortium) an author of an accepted paper is required to register for the conference at the full rate and the work must be presented by an author of that paper at the conference unless the TPC Chair grants permission for a substitute presenter arranged in advance of the event and who is qualified both to present and answer questions. Non-refundable registration fees must be paid prior to uploading the final version of the paper. For authors with multiple accepted papers, one full registration is valid for up to 2 papers. </target>
 			</trans-unit>
 			<trans-unit id="119">
 				<source>Cuotas:</source>
@@ -763,6 +763,10 @@
 				<target>Click here to download the Memories of the ICCNA</target>
 			</trans-unit>
 			<trans-unit id="192">
+				<source>(no habrá extensión del plazo)</source>
+				<target>(firm)</target>
+			</trans-unit>
+			<trans-unit id="193">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
 			</trans-unit>
