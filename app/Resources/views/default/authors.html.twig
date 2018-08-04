@@ -4,24 +4,12 @@
 <a href="#" id="ponencias"><h2>{% trans %}Ponencias{% endtrans %}</h2> </a> 
 <div id="ponencias1" style="display:none">
 {% trans %}Los artículos enviados deben contener material original que no esté sujeto a revisión en alguna otra conferencia o revista, o que no haya sido publicado previamente. La extensión máxima de cada artículo no debe ser mayor a doce páginas.{% endtrans %}<br><br>
-{% trans %}Los artículos deben ser enviados en formato .pdf a través del portal{% endtrans %} <a href="https://easychair.org/conferences/?conf=iccna20180">easychair.org</a>{% trans %}, seleccionando la conferencia ICCNA 2018. Los artículos deben ser escritos en inglés o español.{% endtrans %}<br><br>
+{% trans %}Los artículos deben ser enviados en formato .pdf a través del portal{% endtrans %} <a href="https://easychair.org/conferences/?conf=iccna20180">easychair.org</a>{% trans %}, seleccionando la conferencia ICCNA 2018. Los artículos deben ser escritos en inglés o español. El número máximo de autores permitido por artículo es de cinco.{% endtrans %}<br><br>
 {% trans %}Para que el artículo sea publicado en la revista Research in Computer Science, ISSN 1870-4069, un autor del mismo debe registrarse y presentarlo en la conferencia. Para autores de diversos artículos aceptados, el pago de un registro es válido para dos artículos, que deberán ser presentados en la conferencia. Solo artículos registrados y presentados en la conferencia serán publicados en la revista Research in Computer Science.{% endtrans %}<br><br>
 {% trans %}Todos los artículos aceptados para ser presentados en las sesiones técnicas serán publicados en la revista Research in Computing Science, ISSN 1870-4069, publicada por el Instituto Politécnico Nacional de México{% endtrans %}<br><br>
 {% trans %}El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas para Latex y Word pueden descargarse{% endtrans %} {% trans %}aquí{% endtrans %} (<a href="{{ asset('bundles/app/assets/llncs2e.zip') }}">Latex</a>,<a href="{{ asset('bundles/app/assets/splnproc1703.zip') }}">Word</a>).<br><br>
 </div>
-<a href="#" id="carteles"><h2>{% trans %}Carteles{% endtrans %}</h2> </a> 
-<div id="carteles1" style="display:none">
-{% trans %}
-El resumen debe contener la descripción de su estudio y debe estructurarse en diferentes secciones, tales como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Referencias y Agradecimientos (si aplica).  Puede ser escrito en inglés o español, con un máximo de seis páginas. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.
-{% endtrans %}<br><br>
-{% trans %}
-Todos los resúmenes de los carteles aceptados se publicarán en  memoria digital con ISBN.
-{% endtrans %}<br><br>
-{% trans %}
-Las propuestas aceptadas deben presentarse en un cartel de 90 x 120 cm en formato vertical, el texto debe ser legible a 2,5 metros de distancia. Las imágenes y tablas tendrán una medida mínima de 20 x 20 cm, se incluirá una breve explicación del contenido y la fuente de la información en la parte inferior de cada imagen/tabla.
-{% endtrans %}<br><br>
-{% trans %}El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas para Latex y Word pueden descargarse{% endtrans %} {% trans %}aquí{% endtrans %} (<a href="{{ asset('bundles/app/assets/monographs.zip') }}">Latex</a>,<a href="{{ asset('bundles/app/assets/T1-book.zip.zip') }}">Word</a>).
-</div>
+
 <a href="#" id="coloquio"><h2>{% trans %}Consorcio de posgrado{% endtrans %}</h2> </a> 
 <div id="coloquio1" style="display:none">
 {% trans %}
@@ -40,7 +28,20 @@ El Resumen de la investigación debe contener:
 <li>{% trans %}Referencias bibliográficas{% endtrans %}</li>
 </ul><br>
 {% trans %}
-Los resúmenes de investigación deberán ser enviados a la siguiente dirección de correo electrónico: consortium_iccna@itmexicali.edu.mx, indicando si participará en el consorcio de maestria o doctorado
+Los resúmenes de investigación deberán ser enviados a la siguiente dirección de correo electrónico: consortium_iccna@itmexicali.edu.mx, indicando si participará en el consorcio de maestria o doctorado. El número máximo de autores permitido por artículo es de cinco.
+{% endtrans %}<br><br>
+{% trans %}El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas para Latex y Word pueden descargarse{% endtrans %} {% trans %}aquí{% endtrans %} (<a href="{{ asset('bundles/app/assets/monographs.zip') }}">Latex</a>,<a href="{{ asset('bundles/app/assets/T1-book.zip.zip') }}">Word</a>).
+</div>
+<a href="#" id="carteles"><h2>{% trans %}Carteles{% endtrans %}</h2> </a> 
+<div id="carteles1" style="display:none">
+{% trans %}
+El resumen debe contener la descripción de su estudio y debe estructurarse en diferentes secciones, tales como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Referencias y Agradecimientos (si aplica).  Puede ser escrito en inglés o español, con un máximo de seis páginas. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf. El número máximo de autores permitido por artículo es de cinco.
+{% endtrans %}<br><br>
+{% trans %}
+Todos los resúmenes de los carteles aceptados se publicarán en  memoria digital con ISBN.
+{% endtrans %}<br><br>
+{% trans %}
+Las propuestas aceptadas deben presentarse en un cartel de 90 x 120 cm en formato vertical, el texto debe ser legible a 2,5 metros de distancia. Las imágenes y tablas tendrán una medida mínima de 20 x 20 cm, se incluirá una breve explicación del contenido y la fuente de la información en la parte inferior de cada imagen/tabla.
 {% endtrans %}<br><br>
 {% trans %}El formato de los artículos debe cumplir con el de las series LNCS de Springer. Las plantillas para Latex y Word pueden descargarse{% endtrans %} {% trans %}aquí{% endtrans %} (<a href="{{ asset('bundles/app/assets/monographs.zip') }}">Latex</a>,<a href="{{ asset('bundles/app/assets/T1-book.zip.zip') }}">Word</a>).
 </div>

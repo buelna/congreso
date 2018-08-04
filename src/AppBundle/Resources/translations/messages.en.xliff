@@ -71,8 +71,8 @@
 				<target>All papers must use the LNCS Springer series format. The templates for Latex and Word can be found</target>
 			</trans-unit>
 			<trans-unit id="18">
-				<source>Comité Organizador</source>
-				<target>General Chairs</target>
+				<source>Presidentes del Comité Técnico del Programa</source>
+				<target>Technical Program Committee Chairs</target>
 			</trans-unit>
 			<trans-unit id="19">
 				<source>Arnoldo Díaz-Ramirez (Tecnológico Nacional de México/IT de Mexicali)</source>
@@ -83,8 +83,8 @@
 				<target>Carlos T. Calafate (Technical University of Valencia, Spain)</target>
 			</trans-unit>
 			<trans-unit id="21">
-				<source>Comité Revisor</source>
-				<target>Program Committee</target>
+				<source>Comité Técnico del Programa</source>
+				<target>Technical Program Committee</target>
 			</trans-unit>
 			<trans-unit id="22">
 				<source>Juan Carlos Cano (Universidad Politécnica de Valencia, España)</source>
@@ -251,8 +251,8 @@
 				<target>Conference dates</target>
 			</trans-unit>
 			<trans-unit id="63">
-				<source>, seleccionando la conferencia ICCNA 2018. Los artículos deben ser escritos en inglés o español.</source>
-				<target> Web page, selecting ICCNA 2018. All final submissions should be written in English or Spanish.</target>
+				<source>, seleccionando la conferencia ICCNA 2018. Los artículos deben ser escritos en inglés o español. El número máximo de autores permitido por artículo es de cinco.</source>
+				<target> Web page, selecting ICCNA 2018. All final submissions should be written in English or Spanish. The maximum number of authors per paper must not exceed five.</target>
 			</trans-unit>
 			<trans-unit id="64">
 				<source>aquí</source>
@@ -319,8 +319,8 @@
 				<target>The poster proposal should be related, but not limited to, the following areas:</target>
 			</trans-unit>
 			<trans-unit id="80">
-				<source>El resumen debe contener la descripción de su estudio y debe estructurarse en diferentes secciones, tales como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Referencias y Agradecimientos (si aplica).  Puede ser escrito en inglés o español, con un máximo de seis páginas. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf.</source>
-				<target>The summary should contain the description of your study and should be structured in different sections such as: Abstract, Introduction, Methodology, Results, Conclusions, Acknowledgements (if applicable) and References. It can be written in English or Spanish, with a maximum of six pages. The proposals must be submit to poster_iccna@itmexicali.edu.mx in pdf format.</target>
+				<source>El resumen debe contener la descripción de su estudio y debe estructurarse en diferentes secciones, tales como: Resumen, Introducción, Metodología, Resultados, Conclusiones, Referencias y Agradecimientos (si aplica).  Puede ser escrito en inglés o español, con un máximo de seis páginas. Las propuestas deben ser enviadas a poster_iccna@itmexicali.edu.mx en formato pdf. El número máximo de autores permitido por artículo es de cinco.</source>
+				<target>The summary should contain the description of your study and should be structured in different sections such as: Abstract, Introduction, Methodology, Results, Conclusions, Acknowledgements (if applicable) and References. It can be written in English or Spanish, with a maximum of six pages. The proposals must be submit to poster_iccna@itmexicali.edu.mx in pdf format. The maximum number of authors per paper must not exceed five.</target>
 			</trans-unit>
 			<trans-unit id="81">
 				<source>Todos los resúmenes de los carteles aceptados se publicarán en  memoria digital con ISBN.</source>
@@ -407,8 +407,8 @@
 				<target>References</target>
 			</trans-unit>
 			<trans-unit id="103">
-				<source>Los resúmenes de investigación deberán ser enviados a la siguiente dirección de correo electrónico: consortium_iccna@itmexicali.edu.mx, indicando si participará en el consorcio de maestria o doctorado</source>
-				<target>The research summary must be submit to consortium_iccna@itmexicali.edu.mx in pdf format, indicating whether you participate in the master's degree or doctorate's consortium.</target>
+				<source>Los resúmenes de investigación deberán ser enviados a la siguiente dirección de correo electrónico: consortium_iccna@itmexicali.edu.mx, indicando si participará en el consorcio de maestria o doctorado. El número máximo de autores permitido por artículo es de cinco.</source>
+				<target>The research summary must be submit to consortium_iccna@itmexicali.edu.mx in pdf format, indicating whether you participate in the master's degree or doctorate's consortium. The maximum number of authors per paper must not exceed five.</target>
 			</trans-unit>
 			<trans-unit id="104">
 				<source>Las actividades de la ICCNA se llevarán a cabo en el Hotel Araiza Mexicali, que está localizado en el corazón de la zona turística de la ciudad.</source>
@@ -769,6 +769,10 @@
 			<trans-unit id="193">
 				<source>Johann Marquez-Barja (Universidad de Amberes, Bélgica)</source>
 				<target>Johann Marquez-Barja (University of Antwerpen - imec, Belgium)</target>
+			</trans-unit>
+			<trans-unit id="194">
+				<source>Por ser anunciado</source>
+				<target>TBA</target>
 			</trans-unit>
 		</body>
 	</file>
