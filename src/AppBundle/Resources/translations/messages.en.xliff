@@ -87,20 +87,20 @@
 				<target>Technical Program Committee</target>
 			</trans-unit>
 			<trans-unit id="22">
-				<source>Juan Carlos Cano (Universidad Politécnica de Valencia, España)</source>
-				<target>Juan Carlos Cano (Technical University of Valencia, Spain)</target>
+				<source>(Universidad Politécnica de Valencia, España)</source>
+				<target>(Technical University of Valencia, Spain)</target>
 			</trans-unit>
 			<trans-unit id="23">
 				<source>Baldomero Coll (Miguel Hernandez University, España)</source>
 				<target>Baldomero Coll (Miguel Hernandez University, Spain)</target>
 			</trans-unit>
 			<trans-unit id="24">
-				<source>Juan Pablo García Vázquez (UABC, México)</source>
-				<target>Juan Pablo García Vázquez (UABC, México)</target>
+				<source>(UABC, México)</source>
+				<target>(UABC, México)</target>
 			</trans-unit>
 			<trans-unit id="25">
-				<source>Manuel Fogue (Universidad de Zaragoza, España)</source>
-				<target>Manuel Fogue (University of Zaragoza, Spain)</target>
+				<source>(Universidad de Zaragoza, España)</source>
+				<target>(University of Zaragoza, Spain)</target>
 			</trans-unit>
 			<trans-unit id="26">
 				<source>Piedad Garrido (Universidad de Zaragoza, España)</source>
@@ -267,8 +267,8 @@
 				<target>Victor Díaz-Ramírez (CITEDI-IPN, Mexico)</target>
 			</trans-unit>
 			<trans-unit id="67">
-				<source>Luis A. Martínez Alvarado (Instituto Tecnológico de Mexicali, México)</source>
-				<target>Luis A. Martínez Alvarado (Technical Institute of Mexicali, Mexico)</target>
+				<source>(Instituto Tecnológico de Mexicali, México)</source>
+				<target>(Technical Institute of Mexicali, Mexico)</target>
 			</trans-unit>
 			<trans-unit id="68">
 				<source>Vidblain Amaro Ortega  (Instituto Tecnológico de Mexicali, México)</source>
@@ -773,6 +773,26 @@
 			<trans-unit id="194">
 				<source>Por ser anunciado</source>
 				<target>TBA</target>
+			</trans-unit>
+			<trans-unit id="195">
+				<source>(Instituto Tecnológico de Ensenada, México)</source>
+				<target>(Technical Institute of Ensenada, México)</target>
+			</trans-unit>
+			<trans-unit id="196">
+				<source>(Instituto Tecnológico de Tijuana, México)</source>
+				<target>(Technical Institute of Tijuana, México)</target>
+			</trans-unit>
+			<trans-unit id="197">
+				<source>(Instituto Tecnológico de Veracruz, México)</source>
+				<target>(Technical Institute of Veracruz, México)</target>
+			</trans-unit>
+			<trans-unit id="198">
+				<source>(Instituto Tecnológico de Monterrey, México)</source>
+				<target>(Technical Institute of Monterrey, México)</target>
+			</trans-unit>
+			<trans-unit id="199">
+				<source>(Universidad Politecnica de Pachuca, México)</source>
+				<target>(Technical University of Pachuca, México)</target>
 			</trans-unit>
 		</body>
 	</file>
