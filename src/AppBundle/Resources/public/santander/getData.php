@@ -77,7 +77,7 @@ function getData($info)
             echo "<br /> Nombre: <b>" .  $ALU_NOM . "</b>";
             echo "<br /> Concepto: <b>" . $ALU_CONCEPTO . "</b>";
             echo "<br /> Monto: <b> $" . $ALU_MONTO . ".00</b>";
-            echo "<br /> Fecha limite de Pago: 6 de NOVIEMBRE 2017";
+            echo "<br /> Fecha limite de Pago: 5 de NOVIEMBRE 2017";
             $condensacioncita=$factura.$CLAVE_PAGO;
             $linea = mod22($ALU_CTR,$condensacioncita,$ALU_MONTO);
             echo "<br/><font size=\"5\"><b>Linea :".$linea . "</b></font>";
