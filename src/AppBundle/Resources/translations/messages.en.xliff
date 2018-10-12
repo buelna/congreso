@@ -431,8 +431,8 @@
 				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax</target>
 			</trans-unit>
 			<trans-unit id="109">
-				<source>Habitación estándar 990.00 pesos</source>
-				<target>Standard room 990.00 Mexican pesos</target>
+				<source>Habitación estándar 1,050.00 pesos</source>
+				<target>Standard room 1,050.00 Mexican pesos</target>
 			</trans-unit>
 			<trans-unit id="110">
 				<source>También se tiene disponible la opción de hospedaje en el Hotel Calafia Mexicali, que está muy cerca del hotel sede.</source>
@@ -451,12 +451,12 @@
 				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax (16&#37;) and Lodging Tax (3&#37;).</target>
 			</trans-unit>
 			<trans-unit id="114">
-				<source>Habitación estándar 690.00 pesos</source>
-				<target>Standard room 690.00 Mexican pesos</target>
+				<source>Habitación estándar (sencilla, doble, triple, cuadruple) 735.00 pesos</source>
+				<target>Standard room (single, double, triple, quadruple) 735.00 Mexican pesos</target>
 			</trans-unit>
 			<trans-unit id="115">
-				<source>Habitación estándar superior 1,190.00 pesos</source>
-				<target>Standard superior 1,190.00 Mexican pesos</target>
+				<source>Habitación estándar superior 1,210.00 pesos</source>
+				<target>Standard superior 1,210.00 Mexican pesos</target>
 			</trans-unit>
 			<trans-unit id="116">
 				<source>Habitación estándar superior 765.00 pesos</source>
@@ -813,6 +813,34 @@
 			<trans-unit id="204">
 				<source>(UABC, México)</source>
 				<target>(UABC, Mexico)</target>
+			</trans-unit>
+			<trans-unit id="205">
+				<source>El Dr. José Alberto López Fernández es egresado del Instituto Tecnológico de Toluca, donde obtuvo el título de Ingeniero en Electrónica. Trabajó, como Ingeniero de Mantenimiento en la empresa Grupo Corporativo Papelera de 2008 a 2009. En abril de 2015 obtuvo el grado de Doctor en Ciencias en Ingeniería Electrónica por el Instituto Tecnológico de Toluca. Durante 2014-2016 se desempeñó como Profesor de Tiempo Completo en el Tecnológico de Estudios Superiores de Tianguistenco, donde obtuvo el Reconocimiento al Perfil Deseable de PRODEP. Sus Intereses de Investigación se enfocan a los convertidores estáticos multinivel aplicados a las descargas de barrera dieléctrica y al modelado y control de la electrónica de potencia.</source>
+				<target>Dr. José Alberto López Fernández is a graduate of the Technological Institute of Toluca, where he obtained the degree of Electronics Engineer. He worked as a Maintenance Engineer in the company Corporative Paper Group from 2008 to 2009. In April 2015 he obtained the degree of Doctor of Science in Electronic Engineering from the Technological Institute of Toluca. During 2014-2016, he worked as a Full-time Professor at the Technological of Higher Studies of Tianguistenco, where he obtained the Recognition of the Desirable Profile of PRODEP. His research interests are focused on multilevel static converters applied to dielectric barrier discharges and modeling and control of power electronics.</target>
+			</trans-unit>
+			<trans-unit id="206">
+				<source>Desde 2017 trabaja como Jefe de Posgrado adscrito a la División de Posgrado, Investigación e Innovación del Tecnológico Nacional de México (TecNM). Donde se encarga de coordinar los procesos asociados a la prestación de servicios de educación a nivel posgrado que ofrecen los institutos, unidades y centros, del TecNM.</source>
+				<target>Since 2017, he has worked as a Postgraduate Director assigned to the Graduate, Research and Innovation Division of the National Technological Institute of Mexico (TecNM). Where he is responsible for coordinating the processes associated with the provision of education services at the graduate level offered by the institutes, units and centers of the TecNM.</target>
+			</trans-unit>
+			<trans-unit id="207">
+				<source>Título: La oferta educativa de Posgrado en el Tecnológico Nacional de México</source>
+				<target>Title: The postgraduate educational offer at the National Technological Institute of Mexico</target>
+			</trans-unit>
+			<trans-unit id="208">
+				<source>El TecNM es la Institución de Educación Superior, más grande de Latinoamérica con una matrícula superior a los 600,000 estudiantes distribuidos en 254 Institutos o Centros y cuenta con una oferta educativa a nivel posgrado de más de 250 programas, de los cuales 132 se encuentran en el Padrón Nacional de Posgrados de Calidad. Esta charla tiene como objetivo difundir la oferta educativa a nivel Posgrado del TecNM, donde se presentará las orientaciones, modalidades y áreas de conocimiento que actualmente se ofertan. Posteriormente se presentarán los principales apoyos para estudiar un posgrado como lo son; las Becas Nacionales (Escolarizada, No Escolarizada y Posgrados con la Industria), Becas de Movilidad, Becas SENER y el programa de 1000 Jóvenes en la Ciencia. Se abordará aspectos desde; requisitos, procedimiento para el otorgamiento y conceptos que cubren las becas. Finalmente se hará énfasis en los programas de posgrado de las áreas de ingeniería, electrónica y computación para invitar al público a integrarse a los programas de posgrado del TecNM.</source>
+				<target>The TecNM is the largest Higher Education Institution in Latin America with an enrollment of more than 600,000 students distributed in 254 Institutes or Centers and has an educational offer at the graduate level of more than 250 programs, of which 132 are in the National Register of Postgraduate Quality. This talk aims to disseminate the educational offer at the Postgraduate level of the TecNM, where the orientations, modalities and areas of knowledge currently offered will be presented. Later the main supports will be presented to study a postgraduate course as they are; the National Scholarships (Scholarized, Non-Scholarized and Postgraduate with Industry), Mobility Scholarships, SENER Scholarships and the 1000 Youth in Science program. It will address aspects from; requirements, procedure for granting and concepts that cover the scholarships. Finally, emphasis will be placed on postgraduate programs in the areas of engineering, electronics and computers to invite the public to join the postgraduate programs of the TecNM.</target>
+			</trans-unit>
+			<trans-unit id="209">
+				<source>Leonardo Trujillo Recibió una MSc. en Informática (2004) del Instituto Tecnológico de Tijuana y PhD. en Ciencias de la Computación del centro de investigación CICESE, en Ensenada México (2008). Actualmente es profesor en el Instituto Tecnológico de Tijuana (ITT) en México y trabaja en los programas de posgrado en Ciencias de la Ingeniería, donde es investigador principal del laboratorio de investigación TREE-LAB. Su principal interés es desarrollar algoritmos de modelado de datos y aprendizaje automático basados en GP y computación evolutiva. Tiene más de 50 artículos publicados en revistas, 22 capítulos de libros, 60 documentos de conferencias y 3 libros editados de la serie de talleres NEO que él co-preside. También forma parte del comité editorial de varias revistas de prestigio, y actualmente es miembro de varios proyectos de investigación y desarrollo, trabajando con fondos públicos (CONACYT, TECNM) y privados.</source>
+				<target>Leonardo Trujillo Received a MSc. in Computer Science (2004) from the Instituto Tecnológico de Tijuana and a PhD. in Computer Science from the CICESE research center, in Ensenada Mexico (2008). He is currently professor at Instituto Tecnológico de Tijuana (ITT) in Mexico and works in the Engineering Sciences graduate programs, where he is head researcher of the TREE-LAB research lab. His main interest are developing data modeling and machine learning algorithms based on GP and evolutionary computation. He has over 50 published journal papers, 22 book chapters, 60 conference papers, and 3 edited books from the NEO workshop series he co-chairs. He is also on the editorial board of several respected journals, and is currently PI of several research and development projects, working with both public (CONACYT, TECNM) and private funding.</target>
+			</trans-unit>
+			<trans-unit id="210">
+				<source>Título: Mejora automática de un sistema SLAM mediante la manipulación del código fuente con un algoritmo evolutivo.</source>
+				<target>Title: Automatic Improvement of a SLAM system through source code manipulation with an evolutionary algorithm</target>
+			</trans-unit>
+			<trans-unit id="211">
+				<source>Genetic Improvement (GI) realiza una búsqueda en el nivel del código fuente para encontrar la mejor variante de un sistema de base que mejore las propiedades no funcionales y a la vez que mantiene la funcionalidad, con resultados notables en varios dominios. Hay muchos aspectos de este enfoque general que actualmente se están explorando. En particular, este trabajo se relaciona con la forma en que se guía la búsqueda para explorar de manera eficiente el espacio de búsqueda de posibles versiones de software en las que opera GI. La propuesta es integrar Novelty Search (NS) en el marco de GISMOE GI para mejorar KinectFusion, que es un sistema de Localización y Mapeo Simultáneo basado en la visión (SLAM) que se usa para realidad aumentada, navegación autónoma de vehículos y muchas otras aplicaciones del mundo real. Este es uno de un pequeño conjunto de trabajos que han combinado con éxito NS con un sistema GP, y la primera vez que se ha utilizado para mejorar el software. Para lograr esto, proponemos un nuevo descriptor de comportamiento para los algoritmos de SLAM, basado en una evaluación comparativa de vanguardia y presentamos resultados que muestran que NS puede producir mejoras significativas en una configuración de IG, al considerar el tiempo de ejecución y la estimación de la trayectoria como la Principales criterios de rendimiento.</source>
+				<target>Genetic Improvement (GI) performs a search at the level of source code to find the best variant of a baseline system that improves non-functional properties while maintaining functionality, with noticeable results in several domains. There a many aspects of this general approach that are currently being explored. In particular, this work deals to the way in which the search is guided to efficiently explore the search space of possible software versions in which GI operates. The proposal is to integrate Novelty Search (NS) within the GISMOE GI framework to improve KinectFusion, which is a vision-based Simultaneous Localization and Mapping (SLAM) system that is used for augmented reality, autonomous vehicle navigation, and many other real-world applications. This is one of a small set of works that have successfully combined NS with a GP system, and the first time that it has been used for software improvement. To achieve this, we propose a new behaviour descriptor for SLAM algorithms, based on state-of-the-art benchmarking and present results that show that NS can produce significant improvement gains in a GI setting, when considering execution time and trajectory estimation as the main performance criteria.</target>
 			</trans-unit>
 		</body>
 	</file>
