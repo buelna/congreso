@@ -427,8 +427,8 @@
 				<target>http://www.araizahoteles.com/araiza/index.php/en/</target>
 			</trans-unit>
 			<trans-unit id="108">
-				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Los precios no incluyen IVA</source>
-				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax</target>
+				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Entre los beneficios incluye desayuno buffet completo. Los precios no incluyen IVA</source>
+				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Among the benefits includes full buffet breakfast. Rates are subject to Federal Tax</target>
 			</trans-unit>
 			<trans-unit id="109">
 				<source>Habitación estándar 1,050.00 pesos</source>
@@ -447,8 +447,8 @@
 				<target>http://www.araizahoteles.com/calafia/index.php/en/</target>
 			</trans-unit>
 			<trans-unit id="113">
-				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Los precios no incluyen IVA (16&#37;) ni Impuesto sobre Hospedaje (3&#37;).</source>
-				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax (16&#37;) and Lodging Tax (3&#37;).</target>
+				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Entre los beneficios incluye desayuno buffet completo. Los precios no incluyen IVA (16&#37;) ni Impuesto sobre Hospedaje (3&#37;).</source>
+				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Among the benefits includes full buffet breakfast. Rates are subject to Federal Tax (16&#37;) and Lodging Tax (3&#37;).</target>
 			</trans-unit>
 			<trans-unit id="114">
 				<source>Habitación estándar (sencilla, doble, triple, cuadruple) 735.00 pesos</source>
@@ -841,6 +841,18 @@
 			<trans-unit id="211">
 				<source>Genetic Improvement (GI) realiza una búsqueda en el nivel del código fuente para encontrar la mejor variante de un sistema de base que mejore las propiedades no funcionales y a la vez que mantiene la funcionalidad, con resultados notables en varios dominios. Hay muchos aspectos de este enfoque general que actualmente se están explorando. En particular, este trabajo se relaciona con la forma en que se guía la búsqueda para explorar de manera eficiente el espacio de búsqueda de posibles versiones de software en las que opera GI. La propuesta es integrar Novelty Search (NS) en el marco de GISMOE GI para mejorar KinectFusion, que es un sistema de Localización y Mapeo Simultáneo basado en la visión (SLAM) que se usa para realidad aumentada, navegación autónoma de vehículos y muchas otras aplicaciones del mundo real. Este es uno de un pequeño conjunto de trabajos que han combinado con éxito NS con un sistema GP, y la primera vez que se ha utilizado para mejorar el software. Para lograr esto, proponemos un nuevo descriptor de comportamiento para los algoritmos de SLAM, basado en una evaluación comparativa de vanguardia y presentamos resultados que muestran que NS puede producir mejoras significativas en una configuración de IG, al considerar el tiempo de ejecución y la estimación de la trayectoria como la Principales criterios de rendimiento.</source>
 				<target>Genetic Improvement (GI) performs a search at the level of source code to find the best variant of a baseline system that improves non-functional properties while maintaining functionality, with noticeable results in several domains. There a many aspects of this general approach that are currently being explored. In particular, this work deals to the way in which the search is guided to efficiently explore the search space of possible software versions in which GI operates. The proposal is to integrate Novelty Search (NS) within the GISMOE GI framework to improve KinectFusion, which is a vision-based Simultaneous Localization and Mapping (SLAM) system that is used for augmented reality, autonomous vehicle navigation, and many other real-world applications. This is one of a small set of works that have successfully combined NS with a GP system, and the first time that it has been used for software improvement. To achieve this, we propose a new behaviour descriptor for SLAM algorithms, based on state-of-the-art benchmarking and present results that show that NS can produce significant improvement gains in a GI setting, when considering execution time and trajectory estimation as the main performance criteria.</target>
+			</trans-unit>
+			<trans-unit id="212">
+				<source>Habitación estándar con desayuno para una o dos personas 850.00 pesos</source>
+				<target>Standard room with breakfast for one or two people 850.00 Mexican pesos</target>
+			</trans-unit>
+			<trans-unit id="213">
+				<source>Habitación estándar con desayuno para tres personas 975.00 pesos</source>
+				<target>Standard room with breakfast for three people 975.00 Mexican pesos</target>
+			</trans-unit>
+			<trans-unit id="214">
+				<source>Habitación estándar con desayuno para cuatro personas 1100.00 pesos</source>
+				<target>Standard room with breakfast for four people 1100.00 Mexican pesos</target>
 			</trans-unit>
 		</body>
 	</file>
