@@ -427,8 +427,8 @@
 				<target>http://www.araizahoteles.com/araiza/index.php/en/</target>
 			</trans-unit>
 			<trans-unit id="108">
-				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Entre los beneficios incluye desayuno buffet completo. Los precios no incluyen IVA</source>
-				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Among the benefits includes full buffet breakfast. Rates are subject to Federal Tax</target>
+				<source>Los siguientes precios son por habitación, por noche, desde 1 hasta 4 personas por habitación. Los precios no incluyen IVA</source>
+				<target>The following rates are per guestroom, per night, single, double, triple or quadruple occupancy. Rates are subject to Federal Tax</target>
 			</trans-unit>
 			<trans-unit id="109">
 				<source>Habitación estándar 1,050.00 pesos</source>
