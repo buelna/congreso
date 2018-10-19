@@ -21,8 +21,8 @@
  *      
  *      
  */
- 
- 	mysql_connect('localhost','abuelna','njcm1514');
+  mysql_connect('localhost','abuelna','njcm1514');
+ 	#//mysql_connect('localhost','root','root');
 	mysql_select_db('iccna');
 function getData($info)
 {
@@ -31,7 +31,7 @@ function getData($info)
    	$status='A';
     $factura=$info['factura'];
    	$ALU_NOM=$info['name'].' '.$info['lname'];
-
+    
     $query = mysql_query("SELECT * FROM Concepto WHERE idConcepto='".$info['concepto']."'");
     if (!$query) {
       echo "No pudo ejecutarse satisfactoriamente la consulta ($sql) " .
@@ -42,8 +42,17 @@ function getData($info)
     $ALU_CONCEPTO=$res['concepto'];
    	$ALU_MONTO=$res['costo'];
    	$CLAVE_PAGO=$res['clave'];
+    $ncontrol=$info['ncontrol'];
+
+    if (ctype_digit($ncontrol)&&strlen($ncontrol)==8) {
+      $query = mysql_query("INSERT INTO Asistente(nombre,apellidos,institucion,idConcepto,ncontrol) VALUES ('".$info['name']."','".$info['lname']."','".$info['insti']."',".$info['concepto'].",".$ncontrol.")");      
+    }else
+    {
+      $query = mysql_query("INSERT INTO Asistente(nombre,apellidos,institucion,idConcepto) VALUES ('".$info['name']."','".$info['lname']."','".$info['insti']."',".$info['concepto'].")");  
+    }
+
+
     
-    $query = mysql_query("INSERT INTO Asistente(nombre,apellidos,institucion,idConcepto) VALUES ('".$info['name']."','".$info['lname']."','".$info['insti']."',".$info['concepto'].")");
     if (!$query) {
       echo "No pudo ejecutarse satisfactoriamente la consulta ($sql) " .
       "en la BD: " . mysql_error();
@@ -57,14 +66,20 @@ function getData($info)
       "en la BD: " . mysql_error();
       exit;
     }
-    $res = mysql_fetch_assoc($query);
-    $num=$res['idAsistente'];
-    $sz=strlen($num);
-    $cad='';
-    for ($i=0; $i < 8-$sz; $i++) { 
-      $cad=$cad.'0';
+
+    if (ctype_digit($ncontrol)&&strlen($ncontrol)==8&&$info['concepto']==1) {
+      $ALU_CTR=$ncontrol;
+    }else{
+
+      $res = mysql_fetch_assoc($query);
+      $num=$res['idAsistente'];
+      $sz=strlen($num);
+      $cad='';
+      for ($i=0; $i < 8-$sz; $i++) { 
+        $cad=$cad.'0';
+      }
+      $ALU_CTR=$cad.$num;
     }
-    $ALU_CTR=$cad.$num;
 		switch($status)
    {
 	case 'A':

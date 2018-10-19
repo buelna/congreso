@@ -53,11 +53,14 @@ Nota: Estudiantes deberan presentar credencial vigente al recoger su carnet
     <input type="text" id="insti" name="insti" class="form-control" placeholder="{% trans %}Institución{% endtrans %}" required>
     <label for="concepto" class="sr-only">Concepto:</label>
     <select id="concepto" name="concepto" class="form-control" required>
+      <option value="1">{% trans %}Estudiante (ITM){% endtrans %}</option>
       <option value="1">{% trans %}Estudiante{% endtrans %}</option>
       <option value="2">{% trans %}Asistente{% endtrans %}</option>
       <option value="3">{% trans %}Cena de gala (solo cena){% endtrans %}</option>
     </select>
-
+    <br>
+    <p>Perteneces al ITM? no olvides agregar tu No. Control</p>
+    <input type="text" id="ncontrol" name="ncontrol" class="form-control" placeholder="{% trans %}No. Control{% endtrans %}">
     <input type="radio"  value="1" id="factura01" name="factura"/>
     <label for="factura01"><span ></span >{% trans %}SI requiere factura{% endtrans %}</label>
     <input type="radio" value="0" id="factura02" name="factura" checked />
