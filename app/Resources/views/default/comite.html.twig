@@ -2,7 +2,8 @@
 
 
 {% block body %}
-
+<a href="#" id="tecnico"><h2>{% trans %}Comité Técnico{% endtrans %}</h2> </a> 
+<div id="tecnico1" style="display:none">
 <h2>{% trans %}Presidentes del Comité Técnico del Programa{% endtrans %}</h2><br>
 <ul>
 <li>{% trans %}Arnoldo Díaz-Ramirez (Tecnológico Nacional de México/IT de Mexicali){% endtrans %}</li>
@@ -51,6 +52,10 @@
 <li>M.C. Verónica Quintero Rosas (ITM, Instituto Tecnológico de Mexicali)</li>
 </ul>
 
+</div>
+
+<a href="#" id="organizador"><h2>{% trans %}Comité Organizador{% endtrans %}</h2> </a> 
+<div id="organizador1" style="display:none">
 <h2>{% trans %}Comité Organizador{% endtrans %}</h2><br>
 <ul>
 <li>
@@ -100,9 +105,7 @@
     <p>Departamento de Sistemas y Computación</p>
 </li>
 </ul>
-
-
-
+</div>
 {% endblock %}
 {% block stylesheets %} {% endblock %}
 {% block footer %}

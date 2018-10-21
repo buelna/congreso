@@ -854,6 +854,30 @@
 				<source>Habitación estándar con desayuno para cuatro personas 1100.00 pesos</source>
 				<target>Standard room with breakfast for four people 1100.00 Mexican pesos</target>
 			</trans-unit>
+			<trans-unit id="215">
+				<source>Comité Técnico</source>
+				<target>Technical Program Committee</target>
+			</trans-unit>
+			<trans-unit id="216">
+				<source>Comité Organizador</source>
+				<target>Organizing Committee</target>
+			</trans-unit>
+			<trans-unit id="217">
+				<source>Los nuevos desarrollos tecnológicos y la velocidad de transformación de los mismos, así como la digitalización y la globalización están planteando importantes oportunidades y retos en el sistema de la economía a nivel global. Este escenario representa en la actualidad un nuevo cambio de paradigma en las organizaciones, implicando una nueva forma de concebirlas, ante la llamada Cuarta Revolución Industrial (CRI). Ante este reto, los sectores gubernamental, académico e industrial deben de transformarse para intentar posicionarse como un sistema sólido, competitivo y de referencia internacional. El objetivo de esta presentación es analizar los retos y oportunidades de  la gran metamorfosis que la sociedad está experimentando. Se hace especial énfasis en los retos y riesgos que enfrenta la formación de capital humano para aprovechar los beneficios a la sociedad de las tecnologías emergentes y su convergencia, de la misma forma, se presenta una primera aproximación de las consecuencias e implicaciones de los cambios axiales que se ciernen.</source>
+				<target>The new technological developments and the speed of their transformation, in conjunction with digitization and globalization, are posing important opportunities and challenges. The Fourth Industrial Revolution (CRI)  is creating a new paradigm shift in the modus-operandi of government, academia and industry. The objective of this presentation is to analyze the great metamorphosis that society is experiencing. Special emphasis is placed on the challenges and risks regarding capacity building in order to take advantage of the potential benefits of emerging technologies to society. A preliminary analysis of the consequences and implications of digitization for the Mexican context is presented.</target>
+			</trans-unit>
+			<trans-unit id="218">
+				<source>Título: Implicaciones de la digitalización: Los retos y oportunidades de la cuarta revolución industrial</source>
+				<target>Title: Implications of digitization: The challenges and opportunities of the fourth industrial revolution</target>
+			</trans-unit>
+			<trans-unit id="219">
+				<source>El Dr. Arturo Serrano Santoyo nació en la ciudad de México en 1951.  Realizó sus estudios de Ingeniero en Comunicaciones y Electrónica en la Escuela Superior de Ingeniería Mecánica y Eléctrica del Instituto Politécnico Nacional. Obtuvo el grado de Doctor en Ciencias en Ingeniería Eléctrica en 1980 en el Centro de Investigación y Estudios Avanzados (CINVESTAV).  En 1981 recibió el Premio Nacional de Electrónica y Telecomunicaciones de la empresa ALCATEL y en 1985 el Premio de Telecomunicaciones de ERICSSON, ambos por sus contribuciones al desarrollo de las telecomunicaciones en México y Latinoamérica. El Dr. Serrano obtuvo el Premio Nacional de Ingeniería Mecánica, Eléctrica, de Comunicaciones y Electrónica 2014 del Colegio de Ingenieros Mecánicos y Electricistas A.C.</source>
+				<target>Dr. Arturo Serrano Santoyo was born in Mexico City in 1951. He completed his studies in Communications and Electronics Engineering at the School of Mechanical and Electrical Engineering of the National Polytechnic Institute. He obtained the degree of Doctor of Science in Electrical Engineering in 1980 at the Center for Research and Advanced Studies (CINVESTAV). In 1981 he received the National Award for Electronics and Telecommunications from the company ALCATEL and in 1985 the Telecommunications Award from ERICSSON, both for his contributions to the development of telecommunications in Mexico and Latin America. Dr. Serrano obtained the National Award for Mechanical, Electrical, Communications and Electronics Engineering 2014 from the College of Mechanical and Electrical Engineers A.C.</target>
+			</trans-unit>
+			<trans-unit id="220">
+				<source>Ha sido consultor para la Organización de Estados Americanos, La Organización de las Naciones Unidas, así como para compañías e Instituciones nacionales y extranjeras en el área de sistemas y redes de comunicaciones. Es miembro del Sistema Nacional de Investigadores desde sus inicios y miembro de Número de la Academia Mexicana de Ingeniería. El Dr. Serrano es autor de los libros: “Las Telecomunicaciones en Latinoamérica: Retos y Perspectivas” publicado en el año 2000 por Prentice-Hall, “La Brecha Digital: Mitos y Realidades” editado por el Fondo Editorial de Baja California y Digitalización y Convergencia Global. Actualmente es investigador en el Centro de Investigación Científica y Educación Superior de Ensenada (CICESE), miembro del Centro de Ciencias de la Complejidad (C3) y catedrático en CETYS Universidad y en la Universidad Autónoma de Baja California.</source>
+				<target>He has been a consultant for the Organization of American States, the Organization of the United Nations, as well as for companies and national and foreign institutions in the area of systems and communications networks. He is a member of the National System of Researchers since its inception and a member of the Mexican Academy of Engineering. Dr. Serrano is the author of the books: "Telecommunications in Latin America: Challenges and Perspectives" published in 2000 by Prentice-Hall, "The Digital Divide: Myths and Realities" edited by the Editorial Fund of Baja California and Digitization and Global Convergence He is currently a researcher at the Center for Scientific Research and Higher Education of Ensenada (CICESE), member of the Center for Complexity Sciences (C3) and professor at CETYS University and the Autonomous University of Baja California.</target>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>

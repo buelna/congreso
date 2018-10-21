@@ -15,3 +15,13 @@ $(document).ready(function(){
       $('#coloquio1').toggle();
    });
 });
+$(document).ready(function(){ 
+   $('#tecnico').on('click',function(){
+      $('#tecnico1').toggle();
+   });
+});
+$(document).ready(function(){ 
+   $('#organizador').on('click',function(){
+      $('#organizador1').toggle();
+   });
+});
