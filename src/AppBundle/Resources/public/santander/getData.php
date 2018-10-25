@@ -22,7 +22,7 @@
  *      
  */
   mysql_connect('localhost','abuelna','njcm1514');
- 	#//mysql_connect('localhost','root','root');
+ 	#mysql_connect('localhost','root','root');
 	mysql_select_db('iccna');
 function getData($info)
 {
@@ -92,7 +92,7 @@ function getData($info)
             echo "<br /> Nombre: <b>" .  $ALU_NOM . "</b>";
             echo "<br /> Concepto: <b>" . $ALU_CONCEPTO . "</b>";
             echo "<br /> Monto: <b> $" . $ALU_MONTO . ".00</b>";
-            echo "<br /> Fecha limite de Pago: 5 de NOVIEMBRE 2017";
+            echo "<br /> Fecha limite de Pago: 5 de NOVIEMBRE 2018";
             $condensacioncita=$factura.$CLAVE_PAGO;
             $linea = mod22($ALU_CTR,$condensacioncita,$ALU_MONTO);
             echo "<br/><font size=\"5\"><b>Linea :".$linea . "</b></font>";
@@ -175,7 +175,7 @@ Atentamente: Recursos Financieros.
         <h3><strong>No. DE CONVENIO 2092</strong></h3>
         <h3> <strong>BANCO SANTANDER</strong></h3>
 <div class="text-left">
-<h4>**Vigencia: 9 al 13 octubre 2017</h4>
+<h4>**Vigencia: 9 al 13 octubre 2018</h4>
 
 <h4> 
 </h4>
